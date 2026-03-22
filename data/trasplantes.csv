@@ -1,0 +1,1577 @@
+organo,sexo,edad_al_trasplante_anios,grupo_sanguineo_receptor,rh,relacion,institucion,tipo_trasplante,entidad_federativa_trasplante,tiempo_espera_dias
+riñón,masculino,34,A,positivo,no aplica,IMSS,cadáver,Jalisco,4901
+riñón,masculino,39,A,positivo,no aplica,IMSS,cadáver,Jalisco,4421
+riñón,masculino,37,A,positivo,no aplica,IMSS,cadáver,Jalisco,4295
+riñón,masculino,29,O,positivo,no aplica,IMSS,cadáver,Jalisco,4216
+riñón,masculino,34,O,positivo,no aplica,IMSS,cadáver,Puebla,4007
+riñón,femenino,41,O,positivo,no aplica,IMSS,cadáver,Jalisco,3978
+riñón,femenino,40,O,positivo,no aplica,IMSS,cadáver,Guanajuato,3811
+riñón,masculino,49,O,positivo,no aplica,IMSS,cadáver,Guanajuato,3842
+riñón,masculino,30,A,positivo,no aplica,IMSS,cadáver,Jalisco,3831
+corazón-riñón,femenino,42,O,positivo,no aplica,SSA,cadáver,Ciudad de México,3855
+riñón,femenino,44,O,positivo,no aplica,IMSS,cadáver,Veracruz,3805
+riñón,femenino,32,A,positivo,no aplica,IMSS,cadáver,Jalisco,3649
+riñón,femenino,33,O,positivo,no aplica,IMSS,cadáver,Guanajuato,3637
+riñón,masculino,33,O,positivo,no aplica,IMSS,cadáver,Guanajuato,3653
+riñón,femenino,34,O,positivo,no aplica,IMSS,cadáver,Guanajuato,3636
+córnea,femenino,72,O,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,3653
+riñón,femenino,38,A,positivo,no aplica,IMSS,cadáver,Jalisco,3623
+riñón,masculino,33,O,positivo,no aplica,IMSS,cadáver,Puebla,3531
+riñón,femenino,25,O,positivo,no aplica,IMSS,cadáver,Veracruz,3494
+riñón,masculino,35,O,positivo,no aplica,IMSS,cadáver,Veracruz,3354
+riñón,femenino,52,O,positivo,no aplica,IMSS,cadáver,Sinaloa,3268
+riñón,femenino,35,A2,positivo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,3167
+riñón,masculino,51,O,positivo,no aplica,IMSS,cadáver,Veracruz,3130
+riñón,masculino,33,O,positivo,no aplica,IMSS,cadáver,Veracruz,3024
+córnea,femenino,40,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,2539
+riñón,masculino,60,O,positivo,no aplica,IMSS,cadáver,Veracruz,2500
+riñón,masculino,30,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,2452
+riñón,femenino,57,B,positivo,no aplica,SSA,cadáver,Ciudad de México,2505
+riñón,masculino,30,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,2389
+riñón,femenino,39,AB,positivo,no aplica,IMSS,cadáver,Jalisco,2334
+riñón,femenino,34,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,2364
+riñón,masculino,36,O,positivo,no aplica,PRIVADO,cadáver,San Luis Potosí,2154
+riñón,femenino,40,A2,positivo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,2150
+córnea,masculino,60,no aplica,no aplica,no aplica,ISSSTE,cadáver,Ciudad de México,2176
+riñón,masculino,10,O,positivo,no aplica,SSE,cadáver,Querétaro,2125
+riñón,masculino,36,O,positivo,no aplica,SSE,cadáver,Jalisco,2083
+riñón,masculino,56,A,positivo,no aplica,IMSS,cadáver,Puebla,2032
+riñón,femenino,50,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,1953
+riñón,masculino,57,AB,positivo,no aplica,IMSS,cadáver,Jalisco,1921
+riñón,femenino,53,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,1948
+riñón,femenino,19,A,positivo,no aplica,SSE,cadáver,Querétaro,1938
+riñón,femenino,43,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,1919
+riñón,masculino,53,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,1949
+riñón,masculino,49,O,positivo,no aplica,IMSS,cadáver,Yucatán,1905
+riñón,femenino,60,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,1873
+riñón,masculino,29,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Guanajuato,1877
+riñón,masculino,36,O,positivo,no aplica,ISSSTE,cadáver,Puebla,1808
+córnea,masculino,58,O,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,1830
+córnea,femenino,35,O,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,1837
+riñón,femenino,33,A,positivo,no aplica,SSA,cadáver,Ciudad de México,1775
+riñón,femenino,37,A,positivo,no aplica,IMSS,cadáver,Jalisco,1802
+córnea,femenino,29,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1791
+córnea,masculino,72,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1643
+córnea,masculino,47,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1548
+córnea,femenino,20,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1505
+córnea,femenino,69,no aplica,no aplica,no aplica,ISSSTE,cadáver,Ciudad de México,1380
+riñón,masculino,38,O,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,1384
+riñón,masculino,19,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Guanajuato,1296
+riñón,femenino,29,O,positivo,no aplica,SSA,cadáver,Ciudad de México,1283
+córnea,masculino,87,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1263
+riñón,masculino,45,A1,positivo,no aplica,IMSS-BIENESTAR,cadáver,Chiapas,1206
+riñón,femenino,23,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,1253
+riñón,femenino,30,O,positivo,no aplica,SSE,cadáver,Jalisco,1243
+riñón,femenino,50,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,1201
+riñón,masculino,56,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,1245
+riñón,femenino,39,O,positivo,no aplica,SSA,cadáver,Ciudad de México,1190
+córnea,femenino,39,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1199
+córnea,masculino,49,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1204
+córnea,femenino,75,O,no aplica,no aplica,IMSS,cadáver,Jalisco,1244
+córnea,masculino,68,no aplica,no aplica,no aplica,IMSS-BIENESTAR,cadáver,Zacatecas,1200
+córnea,masculino,63,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1115
+riñón,femenino,23,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,1138
+córnea,femenino,82,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1109
+riñón,femenino,57,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,1078
+riñón,femenino,53,O,positivo,no aplica,IMSS,cadáver,Nuevo León,1123
+córnea,femenino,32,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1058
+riñón,femenino,46,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,1077
+riñón,femenino,30,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,1036
+riñón,masculino,60,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,1052
+riñón,femenino,54,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,1050
+riñón,femenino,51,B,positivo,no aplica,IMSS,cadáver,Ciudad de México,1046
+riñón,femenino,34,O,positivo,no aplica,SSE,cadáver,Estado de México,1048
+riñón,femenino,33,O,positivo,no aplica,ISSSTE,cadáver,Puebla,1038
+córnea,masculino,76,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1036
+córnea,masculino,82,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,986
+córnea,masculino,72,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1063
+córnea,masculino,74,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1005
+córnea,masculino,77,O,positivo,no aplica,IMSS,cadáver,Puebla,1020
+córnea,masculino,29,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,1026
+córnea,masculino,65,O,positivo,no aplica,ISSSTE,cadáver,Estado de México,976
+córnea,masculino,64,A,positivo,no aplica,ISSSTE,cadáver,Estado de México,982
+riñón,femenino,22,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,951
+córnea,masculino,53,A,positivo,no aplica,PRIVADO,cadáver,Jalisco,959
+riñón,femenino,43,O,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,963
+córnea,masculino,72,O,positivo,no aplica,ISSSTE,cadáver,Estado de México,972
+córnea,femenino,54,O,positivo,no aplica,ISSSTE,cadáver,Estado de México,975
+córnea,masculino,40,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,960
+córnea,masculino,33,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,954
+córnea,masculino,69,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,975
+córnea,masculino,50,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,917
+riñón,femenino,25,O,positivo,no aplica,SSE,cadáver,Estado de México,977
+riñón,femenino,22,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,923
+riñón,masculino,51,O,positivo,no aplica,IMSS,cadáver,Yucatán,954
+córnea,femenino,52,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,974
+riñón,femenino,49,B,positivo,no aplica,PRIVADO,cadáver,Jalisco,914
+riñón,masculino,22,O,positivo,no aplica,IMSS,cadáver,Nuevo León,894
+riñón,femenino,48,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,954
+riñón,masculino,27,O,positivo,no aplica,SSA,cadáver,Ciudad de México,869
+córnea,masculino,40,B,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,923
+córnea,masculino,60,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,911
+córnea,masculino,35,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,834
+córnea,masculino,40,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,841
+córnea,masculino,68,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,860
+córnea,masculino,56,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,908
+riñón,femenino,31,O,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,895
+riñón,masculino,46,A,positivo,no aplica,IMSS,cadáver,Yucatán,817
+riñón,femenino,39,O,positivo,no aplica,IMSS,cadáver,Yucatán,882
+córnea,femenino,59,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,820
+córnea,masculino,68,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,855
+riñón,masculino,34,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,848
+riñón,masculino,63,B,positivo,no aplica,SSE,cadáver,Estado de México,806
+riñón,femenino,41,A1,positivo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,856
+córnea,masculino,59,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,770
+córnea,masculino,33,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,804
+córnea,masculino,40,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,805
+riñón,masculino,49,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,792
+córnea,masculino,73,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,752
+córnea,masculino,37,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,759
+córnea,masculino,39,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,820
+córnea,masculino,59,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,786
+córnea,masculino,28,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,812
+riñón,femenino,33,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,780
+riñón,masculino,32,AB,positivo,no aplica,IMSS,cadáver,Yucatán,764
+riñón,masculino,62,A,positivo,no aplica,IMSS,cadáver,Puebla,784
+córnea,masculino,76,O,positivo,no aplica,SEDENA,cadáver,Ciudad de México,760
+riñón,femenino,43,O,positivo,no aplica,SSA,cadáver,Ciudad de México,760
+córnea,femenino,52,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Tamaulipas,742
+riñón,masculino,32,B,positivo,no aplica,IMSS,cadáver,Ciudad de México,784
+córnea,femenino,40,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,783
+córnea,femenino,37,O,no aplica,no aplica,IMSS,cadáver,Jalisco,744
+córnea,masculino,75,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,729
+riñón,masculino,54,O,positivo,no aplica,SSE,cadáver,Puebla,740
+riñón,femenino,71,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,764
+riñón,femenino,40,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,699
+riñón,masculino,56,B,positivo,no aplica,IMSS,cadáver,Ciudad de México,719
+riñón,masculino,40,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,723
+riñón,masculino,59,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,722
+córnea,masculino,39,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,664
+riñón,femenino,32,O,positivo,no aplica,IMSS,cadáver,Nuevo León,674
+riñón,femenino,26,B,positivo,no aplica,IMSS,cadáver,Ciudad de México,735
+riñón,masculino,56,B,positivo,no aplica,PRIVADO,cadáver,Guanajuato,684
+riñón,femenino,59,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Yucatán,720
+riñón,femenino,17,O,positivo,no aplica,IMSS,cadáver,Jalisco,715
+riñón,femenino,39,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,701
+riñón,masculino,50,O,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,668
+córnea,masculino,67,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,694
+riñón,femenino,42,A,positivo,no aplica,IMSS,cadáver,Sonora,658
+córnea,femenino,88,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,726
+córnea,femenino,75,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,663
+córnea,masculino,72,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,692
+córnea,masculino,60,no aplica,no aplica,no aplica,ISSSTE,cadáver,Jalisco,652
+riñón,masculino,19,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Puebla,635
+riñón,masculino,62,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,677
+riñón,femenino,64,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,683
+riñón,femenino,51,B,positivo,no aplica,IMSS,cadáver,Ciudad de México,676
+riñón,femenino,65,AB,positivo,no aplica,IMSS,cadáver,Ciudad de México,620
+riñón,masculino,55,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,641
+riñón,masculino,31,O,positivo,no aplica,SSE,cadáver,Querétaro,584
+córnea,masculino,62,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,613
+riñón,masculino,68,O,positivo,no aplica,PRIVADO,cadáver,Chihuahua,626
+riñón,femenino,53,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,640
+riñón,masculino,55,A,positivo,no aplica,IMSS,cadáver,Sonora,587
+riñón,masculino,31,O,positivo,no aplica,SSA,cadáver,Ciudad de México,566
+córnea,masculino,93,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,611
+córnea,femenino,58,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,631
+córnea,masculino,66,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,632
+córnea,femenino,71,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,638
+córnea,masculino,30,no aplica,no aplica,no aplica,IMSS,cadáver,Michoacán,626
+hígado,femenino,62,O,positivo,no aplica,SSA,cadáver,Ciudad de México,559
+riñón-riñón,masculino,42,A,positivo,no aplica,IMSS,cadáver,Sonora,601
+riñón,femenino,52,B,positivo,no aplica,IMSS,cadáver,Ciudad de México,629
+riñón,masculino,42,O,positivo,no aplica,SSE,cadáver,Querétaro,551
+córnea,femenino,12,no aplica,no aplica,no aplica,SSE,cadáver,Coahuila,616
+riñón,masculino,61,AB,positivo,no aplica,IMSS,cadáver,Ciudad de México,559
+córnea,femenino,84,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,535
+riñón,masculino,39,O,positivo,no aplica,SSA,cadáver,Ciudad de México,560
+hígado,femenino,63,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,582
+riñón,masculino,35,A,positivo,no aplica,IMSS,cadáver,Sonora,573
+córnea,masculino,70,no aplica,no aplica,no aplica,SSE,cadáver,Coahuila,558
+riñón,masculino,34,O,positivo,no aplica,SSA,cadáver,Ciudad de México,566
+riñón,femenino,71,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,562
+córnea,masculino,70,no aplica,no aplica,no aplica,PRIVADO,cadáver,Durango,538
+córnea,femenino,44,A,positivo,no aplica,IMSS,cadáver,Coahuila,513
+riñón,masculino,34,A,positivo,no aplica,SSE,cadáver,Querétaro,535
+riñón,masculino,60,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,552
+riñón,femenino,57,O,positivo,no aplica,PRIVADO,cadáver,Guanajuato,503
+riñón,masculino,54,A,positivo,no aplica,SSA,cadáver,Ciudad de México,551
+córnea,masculino,68,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,485
+córnea,femenino,57,no aplica,no aplica,no aplica,IMSS-BIENESTAR,cadáver,San Luis Potosí,523
+riñón,masculino,66,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,544
+riñón,masculino,54,B,positivo,no aplica,PRIVADO,cadáver,Nuevo León,469
+riñón,masculino,45,O,positivo,no aplica,IMSS,cadáver,Nuevo León,484
+riñón,femenino,16,O,positivo,no aplica,SSA,cadáver,Ciudad de México,515
+córnea,femenino,78,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,539
+córnea,masculino,55,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,485
+córnea,femenino,65,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,541
+córnea,masculino,56,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,518
+córnea,masculino,77,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,512
+hígado,femenino,72,O,positivo,no aplica,PRIVADO,cadáver,Nuevo León,454
+córnea,masculino,84,O,positivo,no aplica,ISSSTE,cadáver,Puebla,476
+hígado,femenino,63,O,positivo,no aplica,SSA,cadáver,Ciudad de México,503
+riñón,femenino,55,O,positivo,no aplica,PRIVADO,cadáver,Chihuahua,507
+riñón,masculino,39,A1,positivo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,447
+riñón,masculino,26,B,positivo,no aplica,ISSSTE,cadáver,Michoacán,511
+riñón,femenino,36,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,491
+hígado-riñón,masculino,39,O,positivo,no aplica,SSA,cadáver,Ciudad de México,483
+riñón,masculino,66,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,499
+riñón,masculino,69,O,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,460
+riñón,femenino,24,A2,positivo,no aplica,SSA,cadáver,Ciudad de México,440
+riñón,masculino,44,O,positivo,no aplica,SSE,cadáver,Querétaro,435
+riñón,masculino,27,A,positivo,no aplica,SSE,cadáver,Querétaro,454
+riñón,masculino,39,A,positivo,no aplica,SSE,cadáver,Querétaro,480
+córnea,femenino,48,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Guanajuato,447
+córnea,femenino,69,B,positivo,no aplica,ISSSTE,cadáver,Jalisco,443
+hígado,femenino,57,O,negativo,no aplica,PRIVADO,cadáver,Jalisco,462
+riñón,masculino,16,O,positivo,no aplica,IMSS,cadáver,Nuevo León,438
+riñón,masculino,42,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,429
+riñón,masculino,33,O,positivo,no aplica,IMSS,cadáver,Sonora,442
+riñón,masculino,31,A,positivo,no aplica,IMSS,cadáver,Sonora,470
+riñón,femenino,38,O,positivo,no aplica,IMSS,cadáver,Sonora,442
+riñón,masculino,45,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,462
+riñón,masculino,36,O,positivo,no aplica,IMSS,cadáver,Nuevo León,451
+riñón,masculino,79,O,positivo,no aplica,PRIVADO,cadáver,Ciudad de México,370
+córnea,femenino,78,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,403
+córnea,masculino,51,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,392
+córnea,masculino,47,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,431
+córnea,masculino,57,no aplica,no aplica,no aplica,IMSS,cadáver,Veracruz,391
+córnea,masculino,52,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,424
+córnea,femenino,50,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,370
+córnea,masculino,40,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,397
+córnea,masculino,29,O,positivo,no aplica,IMSS,cadáver,Coahuila,359
+riñón,masculino,48,A,positivo,no aplica,IMSS,cadáver,Nuevo León,386
+córnea,femenino,27,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Guanajuato,381
+riñón,masculino,31,A,positivo,no aplica,IMSS,cadáver,Yucatán,401
+córnea,femenino,69,A,positivo,no aplica,SSE,cadáver,Sinaloa,378
+córnea,femenino,54,no aplica,no aplica,no aplica,SSE,cadáver,Jalisco,406
+sin dato,masculino,67,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,419
+riñón,femenino,23,A1,positivo,no aplica,ISSSTE,cadáver,Michoacán,415
+riñón,masculino,57,O,positivo,no aplica,PRIVADO,cadáver,Chihuahua,396
+córnea,femenino,75,no aplica,no aplica,no aplica,SSE,cadáver,Jalisco,386
+riñón,masculino,37,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,348
+córnea,masculino,83,A,positivo,no aplica,SSE,cadáver,Sinaloa,357
+riñón,masculino,11,O,positivo,no aplica,IMSS,cadáver,Jalisco,380
+córnea,femenino,75,O,negativo,no aplica,ISSSTE,cadáver,Ciudad de México,355
+córnea,femenino,28,no aplica,no aplica,no aplica,SSE,cadáver,Jalisco,366
+córnea,femenino,55,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,360
+córnea,femenino,47,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,337
+hígado,femenino,14,B,negativo,no aplica,SSA,cadáver,Ciudad de México,276
+riñón,femenino,17,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,330
+córnea,masculino,27,O,positivo,no aplica,IMSS,cadáver,Coahuila,272
+riñón,masculino,35,O,positivo,no aplica,ISSSTE,cadáver,Jalisco,282
+riñón,masculino,48,O,positivo,no aplica,IMSS,cadáver,Sonora,320
+riñón,femenino,42,O,positivo,no aplica,SSA,cadáver,Ciudad de México,255
+córnea,femenino,34,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,284
+córnea,femenino,25,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,318
+riñón,masculino,46,A,positivo,no aplica,IMSS,cadáver,Yucatán,324
+riñón,femenino,68,O,positivo,no aplica,PRIVADO,cadáver,Nuevo León,277
+riñón,masculino,9,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Guanajuato,290
+hígado,masculino,49,O,positivo,no aplica,IMSS,cadáver,Nuevo León,257
+riñón,femenino,62,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,307
+riñón,masculino,66,A,positivo,no aplica,SSA,cadáver,Ciudad de México,306
+córnea,masculino,28,no aplica,no aplica,no aplica,SSE,cadáver,Coahuila,308
+riñón,femenino,37,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,249
+córnea,masculino,25,no aplica,no aplica,no aplica,ISSSTE,cadáver,Ciudad de México,259
+riñón,femenino,58,A,positivo,no aplica,IMSS,cadáver,Yucatán,295
+hígado,masculino,49,O,positivo,no aplica,PRIVADO,cadáver,Nuevo León,255
+riñón,femenino,26,O,positivo,no aplica,PRIVADO,cadáver,Chihuahua,266
+riñón,masculino,10,A,positivo,no aplica,SSA,cadáver,Ciudad de México,231
+hígado,masculino,70,O,positivo,no aplica,PRIVADO,cadáver,Ciudad de México,233
+córnea,masculino,36,O,positivo,no aplica,PRIVADO,cadáver,Puebla,214
+córnea,masculino,27,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Guanajuato,251
+riñón,masculino,33,B,positivo,no aplica,PRIVADO,cadáver,Jalisco,239
+riñón,femenino,48,O,positivo,no aplica,ISSSTE,cadáver,Jalisco,219
+riñón,femenino,46,O,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,266
+hígado,masculino,65,O,positivo,no aplica,PRIVADO,cadáver,Ciudad de México,262
+hígado,masculino,49,O,positivo,no aplica,SSE,cadáver,Querétaro,239
+córnea,masculino,36,no aplica,no aplica,no aplica,IMSS,cadáver,Michoacán,246
+riñón,femenino,26,O,positivo,no aplica,SSA,cadáver,Ciudad de México,268
+riñón,masculino,36,A,positivo,no aplica,IMSS,cadáver,Morelos,280
+riñón,femenino,32,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,251
+hígado,masculino,59,A,positivo,no aplica,PRIVADO,cadáver,Nuevo León,213
+riñón,femenino,50,O,positivo,no aplica,SSA,cadáver,Ciudad de México,204
+córnea,femenino,30,A,positivo,no aplica,PRIVADO,cadáver,Nuevo León,259
+riñón,masculino,57,A1,positivo,no aplica,PRIVADO,cadáver,Jalisco,205
+riñón,masculino,50,O,positivo,no aplica,PRIVADO,cadáver,Jalisco,218
+hígado,masculino,40,A,positivo,no aplica,IMSS,cadáver,Nuevo León,208
+riñón,masculino,14,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,263
+riñón,masculino,44,O,negativo,no aplica,PRIVADO,cadáver,Ciudad de México,218
+hígado,masculino,6,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,191
+córnea,femenino,46,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,234
+córnea,femenino,37,O,positivo,no aplica,PRIVADO,cadáver,Jalisco,197
+riñón,masculino,17,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Chiapas,178
+córnea,masculino,73,O,positivo,no aplica,PRIVADO,cadáver,Sonora,176
+riñón,femenino,15,O,positivo,no aplica,IMSS,cadáver,Jalisco,184
+córnea,masculino,56,no aplica,no aplica,no aplica,IMSS,cadáver,Veracruz,249
+córnea,masculino,38,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,232
+riñón,masculino,12,O,positivo,no aplica,SSA,cadáver,Ciudad de México,230
+córnea,masculino,66,no aplica,no aplica,no aplica,IMSS,cadáver,Michoacán,216
+córnea,masculino,36,no aplica,no aplica,no aplica,IMSS,cadáver,Michoacán,230
+riñón-páncreas,masculino,32,O,negativo,no aplica,SSA,cadáver,Ciudad de México,213
+riñón,masculino,61,A1,positivo,no aplica,PRIVADO,cadáver,Jalisco,181
+riñón,masculino,45,O,positivo,no aplica,SSA,cadáver,Ciudad de México,226
+córnea,masculino,54,O,positivo,no aplica,PRIVADO,cadáver,Puebla,209
+riñón,femenino,47,O,positivo,no aplica,SSA,cadáver,Ciudad de México,218
+córnea,masculino,51,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,212
+córnea,masculino,43,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,215
+córnea,femenino,23,O,positivo,no aplica,IMSS,cadáver,Puebla,196
+córnea,femenino,26,O,positivo,no aplica,IMSS,cadáver,Puebla,175
+córnea,masculino,22,O,positivo,no aplica,IMSS,cadáver,Puebla,175
+córnea,masculino,60,B,positivo,no aplica,IMSS,cadáver,San Luis Potosí,216
+corazón-riñón,masculino,37,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,171
+riñón,masculino,13,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,238
+córnea,femenino,64,no aplica,no aplica,no aplica,IMSS,cadáver,Michoacán,210
+riñón,masculino,43,O,positivo,no aplica,PRIVADO,cadáver,Nuevo León,150
+córnea,masculino,15,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Guanajuato,194
+hígado,masculino,53,O,positivo,no aplica,SSA,cadáver,Ciudad de México,168
+córnea,masculino,58,O,positivo,no aplica,PRIVADO,cadáver,San Luis Potosí,152
+córnea,femenino,75,O,positivo,no aplica,PRIVADO,cadáver,Puebla,158
+hígado,femenino,60,B,positivo,no aplica,SSA,cadáver,Ciudad de México,227
+córnea,masculino,8,A,positivo,no aplica,PRIVADO,cadáver,San Luis Potosí,147
+hígado,femenino,38,O,positivo,no aplica,SSA,cadáver,Ciudad de México,211
+córnea,masculino,32,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,204
+córnea,masculino,47,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,205
+córnea,masculino,38,A,positivo,no aplica,PRIVADO,cadáver,Puebla,161
+córnea,femenino,29,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,208
+córnea,masculino,1,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,166
+riñón,masculino,33,B,positivo,no aplica,SSA,cadáver,Ciudad de México,220
+riñón,masculino,67,B,positivo,no aplica,SSA,cadáver,Ciudad de México,142
+riñón,femenino,28,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,225
+córnea,femenino,75,no aplica,no disponible,no aplica,PRIVADO,cadáver,Jalisco,186
+córnea,femenino,76,no aplica,no disponible,no aplica,PRIVADO,cadáver,Jalisco,210
+riñón,femenino,15,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Veracruz,157
+riñón,femenino,16,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Veracruz,157
+córnea,masculino,28,B,negativo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,142
+córnea,femenino,64,no aplica,no aplica,no aplica,PRIVADO,cadáver,Yucatán,176
+córnea,femenino,63,no aplica,no aplica,no aplica,SSE,cadáver,Coahuila,193
+riñón,femenino,47,O,positivo,no aplica,PRIVADO,cadáver,Nuevo León,174
+riñón,femenino,68,B,positivo,no aplica,SSA,cadáver,Ciudad de México,132
+riñón,femenino,31,O,positivo,no aplica,SSA,cadáver,Ciudad de México,171
+córnea,masculino,36,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,190
+córnea,femenino,32,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,199
+córnea,femenino,46,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,204
+córnea,masculino,58,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,198
+riñón,masculino,58,O,negativo,no aplica,PRIVADO,cadáver,San Luis Potosí,129
+córnea,masculino,70,O,positivo,no aplica,PRIVADO,cadáver,Estado de México,204
+córnea,femenino,86,no aplica,no aplica,no aplica,ISSSTE,cadáver,Ciudad de México,202
+riñón,masculino,29,A,positivo,no aplica,IMSS,cadáver,Morelos,206
+hígado,masculino,42,O,negativo,no aplica,PRIVADO,cadáver,Jalisco,178
+riñón,femenino,60,O,positivo,no aplica,SSA,cadáver,Ciudad de México,168
+córnea,masculino,8,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,121
+riñón,masculino,36,O,negativo,no aplica,PRIVADO,cadáver,Jalisco,150
+hígado,masculino,71,A,positivo,no aplica,PRIVADO,cadáver,Jalisco,136
+córnea,masculino,72,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,172
+córnea,femenino,89,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,157
+córnea,femenino,20,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,133
+córnea,masculino,73,O,positivo,no aplica,PRIVADO,cadáver,Chihuahua,154
+córnea,femenino,27,O,positivo,no aplica,IMSS,cadáver,San Luis Potosí,131
+córnea,masculino,30,O,positivo,no aplica,IMSS,cadáver,San Luis Potosí,189
+riñón,masculino,28,A,positivo,no aplica,IMSS,cadáver,Nuevo León,134
+corazón,masculino,65,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,174
+hígado,femenino,50,O,positivo,no aplica,IMSS,cadáver,Nuevo León,116
+córnea,femenino,44,O,positivo,no aplica,PRIVADO,cadáver,Estado de México,174
+riñón,femenino,8,O,positivo,no aplica,SSE,cadáver,Guanajuato,120
+córnea,masculino,27,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,180
+córnea,femenino,78,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,111
+córnea,masculino,19,O,positivo,no aplica,SSE,cadáver,Estado de México,118
+córnea,masculino,38,O,positivo,no aplica,SSE,cadáver,Estado de México,161
+córnea,masculino,23,A,positivo,no aplica,SSE,cadáver,Estado de México,118
+córnea,masculino,21,O,positivo,no aplica,SSE,cadáver,Estado de México,167
+córnea,femenino,17,O,positivo,no aplica,SSE,cadáver,Estado de México,122
+córnea,masculino,72,no aplica,no aplica,no aplica,PRIVADO,cadáver,Estado de México,110
+riñón,masculino,35,A,positivo,no aplica,SSA,cadáver,Ciudad de México,98
+riñón,femenino,47,A,positivo,no aplica,PRIVADO,cadáver,Ciudad de México,134
+hígado,femenino,45,O,positivo,no aplica,SSA,cadáver,Ciudad de México,157
+córnea,femenino,77,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,113
+riñón,femenino,30,O,positivo,no aplica,IMSS,cadáver,Sonora,146
+córnea,masculino,16,no aplica,no aplica,no aplica,SSE,cadáver,Querétaro,167
+riñón,masculino,58,O,positivo,no aplica,ISSSTE,cadáver,Nuevo León,121
+córnea,femenino,52,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,92
+córnea,femenino,37,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,92
+córnea,masculino,55,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,109
+córnea,femenino,61,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,116
+córnea,masculino,38,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,95
+córnea,femenino,83,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,134
+córnea,masculino,48,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,123
+córnea,femenino,78,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,120
+córnea,masculino,45,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,116
+córnea,femenino,71,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,162
+córnea,masculino,24,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,127
+córnea,masculino,52,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,136
+córnea,masculino,64,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,101
+córnea,masculino,33,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,101
+córnea,masculino,36,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,94
+córnea,masculino,76,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,165
+córnea,masculino,75,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,158
+córnea,femenino,64,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,120
+córnea,femenino,70,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,169
+córnea,masculino,69,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,157
+córnea,femenino,65,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,157
+córnea,masculino,20,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,130
+córnea,femenino,74,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,165
+córnea,masculino,32,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,129
+córnea,masculino,62,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,147
+córnea,masculino,67,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,157
+córnea,masculino,40,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,140
+córnea,masculino,59,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,135
+córnea,femenino,53,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,171
+córnea,femenino,83,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,171
+córnea,masculino,53,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,139
+córnea,masculino,69,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,170
+córnea,masculino,73,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,174
+córnea,femenino,61,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,153
+córnea,femenino,63,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,171
+córnea,masculino,86,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,133
+córnea,masculino,54,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,168
+córnea,masculino,46,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,140
+córnea,masculino,30,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,136
+córnea,masculino,31,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,136
+córnea,femenino,71,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,171
+córnea,masculino,52,O,positivo,no aplica,IMSS,cadáver,San Luis Potosí,143
+córnea,masculino,64,O,positivo,no aplica,IMSS,cadáver,San Luis Potosí,103
+córnea,femenino,59,no aplica,no disponible,no aplica,PRIVADO,cadáver,Jalisco,154
+corazón,femenino,54,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,139
+córnea,femenino,79,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,114
+córnea,femenino,73,A,positivo,no aplica,PRIVADO,cadáver,Jalisco,107
+córnea,femenino,46,no aplica,no aplica,no aplica,IMSS,cadáver,Veracruz,106
+hígado,masculino,67,O,positivo,no aplica,SSA,cadáver,Ciudad de México,86
+córnea,femenino,73,no aplica,no aplica,no aplica,PRIVADO,cadáver,San Luis Potosí,113
+córnea,femenino,69,O,positivo,no aplica,IMSS,cadáver,San Luis Potosí,129
+córnea,masculino,56,O,positivo,no aplica,IMSS,cadáver,San Luis Potosí,159
+córnea,femenino,79,O,negativo,no aplica,PRIVADO,cadáver,Chihuahua,144
+córnea,masculino,39,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,91
+córnea,masculino,66,O,positivo,no aplica,PRIVADO,cadáver,Jalisco,111
+riñón,masculino,15,A,positivo,no aplica,IMSS,cadáver,Guanajuato,114
+córnea,femenino,50,O,positivo,no aplica,IMSS,cadáver,Guanajuato,76
+córnea,femenino,70,AB,positivo,no aplica,PRIVADO,cadáver,Estado de México,87
+hígado,masculino,43,A,positivo,no aplica,SSA,cadáver,Ciudad de México,85
+córnea,masculino,82,O,positivo,no aplica,IMSS,cadáver,San Luis Potosí,123
+córnea,femenino,44,B,positivo,no aplica,IMSS,cadáver,San Luis Potosí,139
+riñón,masculino,22,B,positivo,no aplica,IMSS,cadáver,Sonora,128
+córnea,femenino,74,A,positivo,no aplica,PRIVADO,cadáver,Nuevo León,148
+riñón,femenino,23,O,positivo,no aplica,SSA,cadáver,Ciudad de México,106
+córnea,masculino,22,no aplica,no aplica,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,132
+córnea,masculino,20,no aplica,no aplica,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,136
+riñón,masculino,28,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Puebla,70
+riñón,masculino,67,AB,positivo,no aplica,PRIVADO,cadáver,Nuevo León,122
+córnea,femenino,60,O,positivo,no aplica,PRIVADO,cadáver,Sonora,68
+córnea,masculino,37,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Guanajuato,108
+córnea,femenino,26,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,58
+córnea,femenino,50,A,positivo,no aplica,PRIVADO,cadáver,Estado de México,86
+riñón,masculino,30,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,145
+córnea,femenino,58,O,positivo,no aplica,PRIVADO,cadáver,Nuevo León,114
+córnea,masculino,81,no aplica,no aplica,no aplica,ISSSTE,cadáver,Ciudad de México,93
+córnea,femenino,53,no aplica,no aplica,no aplica,IMSS,cadáver,Michoacán,98
+córnea,femenino,56,B,positivo,no aplica,IMSS,cadáver,Guanajuato,78
+córnea,femenino,64,O,positivo,no aplica,IMSS,cadáver,Guanajuato,77
+córnea,femenino,81,O,positivo,no aplica,PRIVADO,cadáver,Chiapas,53
+hígado,femenino,69,A,positivo,no aplica,SSA,cadáver,Ciudad de México,120
+hígado,femenino,63,AB,positivo,no aplica,SSA,cadáver,Ciudad de México,76
+riñón,femenino,30,O,positivo,no aplica,SSA,cadáver,Ciudad de México,121
+riñón,masculino,37,O,positivo,no aplica,SSA,cadáver,Ciudad de México,121
+córnea,femenino,19,O,negativo,no aplica,PRIVADO,cadáver,Nuevo León,51
+riñón,femenino,48,O,positivo,no aplica,PRIVADO,cadáver,Chihuahua,124
+córnea,masculino,17,no aplica,no aplica,no aplica,IMSS,cadáver,Veracruz,134
+córnea,masculino,65,A,positivo,no aplica,IMSS,cadáver,Guanajuato,54
+córnea,masculino,68,no aplica,no aplica,no aplica,SSE,cadáver,Puebla,66
+córnea,masculino,31,no aplica,no aplica,no aplica,SSE,cadáver,Puebla,52
+córnea,masculino,62,A,positivo,no aplica,PRIVADO,cadáver,Querétaro,74
+riñón,masculino,12,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,107
+córnea,femenino,78,O,positivo,no aplica,PRIVADO,cadáver,Chihuahua,92
+córnea,masculino,22,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,108
+córnea,femenino,16,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,68
+córnea,femenino,37,no aplica,no aplica,no aplica,IMSS,cadáver,Michoacán,118
+córnea,masculino,29,O,positivo,no aplica,IMSS,cadáver,San Luis Potosí,112
+riñón,masculino,61,A,positivo,no aplica,SSE,cadáver,Guanajuato,50
+córnea,masculino,49,A,positivo,no aplica,IMSS,cadáver,Guanajuato,61
+córnea,femenino,56,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,50
+riñón,masculino,11,A,positivo,no aplica,IMSS,cadáver,Jalisco,61
+riñón,femenino,11,O,positivo,no aplica,IMSS,cadáver,Jalisco,58
+córnea,femenino,73,O,positivo,no aplica,PRIVADO,cadáver,Jalisco,127
+riñón,masculino,57,A,positivo,no aplica,IMSS,cadáver,Nuevo León,66
+riñón,masculino,48,A,positivo,no aplica,IMSS,cadáver,Yucatán,41
+córnea,femenino,66,O,positivo,no aplica,PRIVADO,cadáver,Ciudad de México,114
+córnea,masculino,25,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,98
+córnea,femenino,67,AB,positivo,no aplica,IMSS,cadáver,Guanajuato,69
+hígado,femenino,35,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,94
+córnea,masculino,12,AB,positivo,no aplica,PRIVADO,cadáver,Jalisco,104
+córnea,masculino,60,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,65
+córnea,femenino,61,O,positivo,no aplica,PRIVADO,cadáver,Chiapas,38
+córnea,femenino,38,no aplica,no aplica,no aplica,SSE,cadáver,Guanajuato,46
+corazón,masculino,62,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,42
+córnea,masculino,74,A,positivo,no aplica,PRIVADO,cadáver,Chihuahua,72
+córnea,masculino,36,A,positivo,no aplica,PRIVADO,cadáver,Chihuahua,88
+córnea,masculino,29,A,positivo,no aplica,PRIVADO,cadáver,Querétaro,56
+córnea,femenino,49,O,positivo,no aplica,SEDENA,cadáver,Ciudad de México,72
+córnea,femenino,22,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,30
+riñón,femenino,70,O,positivo,no aplica,SSA,cadáver,Ciudad de México,50
+córnea,masculino,26,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,52
+córnea,masculino,21,O,positivo,no aplica,PRIVADO,cadáver,Chihuahua,116
+riñón,masculino,45,O,positivo,no aplica,PRIVADO,cadáver,Nuevo León,72
+córnea,femenino,37,O,positivo,no aplica,SSE,cadáver,Coahuila,80
+hígado,masculino,40,A,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,43
+córnea,femenino,77,no aplica,no aplica,no aplica,SSE,cadáver,Querétaro,47
+córnea,femenino,72,no aplica,no aplica,no aplica,SSE,cadáver,Querétaro,49
+córnea,masculino,32,A,positivo,no aplica,SSE,cadáver,Querétaro,47
+córnea,femenino,91,no aplica,no aplica,no aplica,SSE,cadáver,Querétaro,48
+córnea,femenino,21,O,positivo,no aplica,PRIVADO,cadáver,Estado de México,85
+córnea,masculino,11,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,54
+córnea,femenino,17,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,28
+hígado,masculino,51,A,positivo,no aplica,IMSS,cadáver,Jalisco,46
+córnea,femenino,23,O,positivo,no aplica,SSE,cadáver,Guanajuato,33
+córnea,masculino,75,no aplica,no aplica,no aplica,SSE,cadáver,Guanajuato,33
+córnea,masculino,81,A,positivo,no aplica,SSE,cadáver,Guanajuato,35
+córnea,femenino,42,A,positivo,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,38
+córnea,masculino,33,no aplica,no disponible,no aplica,IMSS-BIENESTAR,cadáver,Puebla,45
+hígado,femenino,66,O,negativo,no aplica,PRIVADO,cadáver,Jalisco,64
+córnea,masculino,37,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,37
+córnea,masculino,72,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,30
+córnea,masculino,28,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,79
+hígado,femenino,49,O,positivo,no aplica,SSA,cadáver,Ciudad de México,45
+córnea,masculino,14,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,23
+hígado,masculino,70,O,positivo,no aplica,SSA,cadáver,Ciudad de México,31
+hígado,masculino,64,O,negativo,no aplica,SSA,cadáver,Ciudad de México,41
+riñón,femenino,59,O,positivo,no aplica,IMSS,cadáver,Sinaloa,72
+córnea,femenino,39,no aplica,no aplica,no aplica,SSE,cadáver,Puebla,32
+córnea,femenino,31,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,44
+córnea,masculino,21,A,positivo,no aplica,PRIVADO,cadáver,Jalisco,106
+hígado,masculino,52,A,positivo,no aplica,PRIVADO,cadáver,Ciudad de México,46
+córnea,femenino,61,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,43
+córnea,masculino,69,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,22
+córnea,femenino,56,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,22
+córnea,masculino,58,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,36
+córnea,masculino,24,no aplica,no aplica,no aplica,IMSS,cadáver,Veracruz,104
+córnea,masculino,55,O,positivo,no aplica,IMSS,cadáver,Nuevo León,24
+córnea,masculino,34,O,positivo,no aplica,PRIVADO,cadáver,Estado de México,84
+córnea,femenino,20,O,positivo,no aplica,IMSS,cadáver,San Luis Potosí,69
+riñón,masculino,54,O,positivo,no aplica,SSA,cadáver,Ciudad de México,78
+corazón,femenino,41,O,positivo,no aplica,IMSS,cadáver,Nuevo León,81
+córnea,masculino,46,no aplica,no aplica,no aplica,IMSS-BIENESTAR,cadáver,San Luis Potosí,70
+riñón,femenino,52,O,positivo,no aplica,IMSS,cadáver,Sinaloa,104
+córnea,masculino,47,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,15
+córnea,femenino,53,B,positivo,no aplica,IMSS-BIENESTAR,cadáver,Tamaulipas,44
+hígado,femenino,52,O,positivo,no aplica,SSA,cadáver,Ciudad de México,64
+córnea,masculino,19,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,17
+córnea,femenino,24,A,positivo,no aplica,SEDENA,cadáver,Ciudad de México,34
+córnea,femenino,21,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,50
+córnea,masculino,59,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,17
+córnea,masculino,54,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,66
+córnea,femenino,74,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,19
+córnea,femenino,16,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,53
+córnea,masculino,33,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,44
+córnea,masculino,54,no aplica,no aplica,no aplica,PRIVADO,cadáver,Durango,57
+córnea,masculino,84,no aplica,no aplica,no aplica,PRIVADO,cadáver,San Luis Potosí,88
+córnea,masculino,16,no aplica,no disponible,no aplica,IMSS,cadáver,Coahuila,27
+córnea,femenino,57,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,39
+córnea,femenino,55,no aplica,no aplica,no aplica,PRIVADO,cadáver,Jalisco,41
+córnea,femenino,69,no aplica,no aplica,no aplica,PRIVADO,cadáver,Jalisco,84
+córnea,masculino,31,O,positivo,no aplica,PRIVADO,cadáver,Chihuahua,60
+córnea,masculino,82,no aplica,no disponible,no aplica,IMSS,cadáver,Coahuila,20
+córnea,femenino,52,O,negativo,no aplica,IMSS,cadáver,Coahuila,10
+córnea,masculino,66,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,15
+córnea,masculino,80,no aplica,no disponible,no aplica,IMSS,cadáver,Coahuila,19
+córnea,femenino,43,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,10
+córnea,masculino,33,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,22
+córnea,femenino,31,O,positivo,no aplica,SSE,cadáver,Coahuila,45
+hígado,femenino,57,A,positivo,no aplica,SSA,cadáver,Ciudad de México,11
+hígado,femenino,66,A,positivo,no aplica,SSA,cadáver,Ciudad de México,72
+hígado,femenino,59,O,positivo,no aplica,SSA,cadáver,Ciudad de México,83
+córnea,masculino,73,O,positivo,no aplica,IMSS,cadáver,Nuevo León,15
+córnea,femenino,27,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,50
+córnea,masculino,24,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,50
+córnea,femenino,67,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,15
+córnea,femenino,57,O,positivo,no aplica,PRIVADO,cadáver,Estado de México,14
+córnea,masculino,24,O,positivo,no aplica,PRIVADO,cadáver,Estado de México,56
+hígado,femenino,55,O,positivo,no aplica,SSA,cadáver,Ciudad de México,63
+córnea,femenino,39,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,15
+córnea,masculino,15,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,4
+córnea,femenino,62,O,positivo,no aplica,IMSS,cadáver,Coahuila,13
+córnea,femenino,44,A,positivo,no aplica,IMSS,cadáver,Coahuila,6
+córnea,masculino,42,O,positivo,no aplica,IMSS,cadáver,Coahuila,6
+córnea,masculino,40,O,positivo,no aplica,IMSS,cadáver,Coahuila,33
+córnea,masculino,70,no aplica,no aplica,no aplica,PRIVADO,cadáver,Yucatán,9
+córnea,femenino,46,O,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,13
+córnea,masculino,36,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,6
+córnea,femenino,35,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,20
+córnea,masculino,59,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,11
+córnea,femenino,78,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,22
+córnea,masculino,68,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,11
+córnea,femenino,56,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,14
+córnea,femenino,66,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,12
+córnea,femenino,81,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,15
+córnea,masculino,30,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,21
+córnea,masculino,13,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,39
+córnea,femenino,82,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,13
+córnea,masculino,74,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,18
+córnea,masculino,55,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,19
+córnea,masculino,70,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,13
+córnea,masculino,82,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,18
+córnea,femenino,71,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,26
+córnea,masculino,39,O,positivo,no aplica,SEDENA,cadáver,Ciudad de México,3
+córnea,masculino,1,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,62
+córnea,femenino,53,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,18
+córnea,femenino,25,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,20
+córnea,masculino,47,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,19
+córnea,femenino,78,A,positivo,no aplica,IMSS,cadáver,Michoacán,36
+córnea,masculino,57,no aplica,no aplica,no aplica,IMSS,cadáver,Michoacán,63
+córnea,femenino,32,O,positivo,no aplica,IMSS,cadáver,Puebla,34
+córnea,femenino,64,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,1
+córnea,femenino,79,O,positivo,no aplica,IMSS,cadáver,Coahuila,30
+córnea,femenino,10,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,11
+córnea,femenino,84,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,25
+córnea,femenino,52,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,3
+córnea,femenino,79,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,16
+córnea,femenino,79,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,16
+córnea,femenino,66,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,15
+córnea,femenino,80,no aplica,no aplica,no aplica,PRIVADO,cadáver,Yucatán,30
+córnea,femenino,72,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,23
+córnea,masculino,67,no aplica,no aplica,no aplica,IMSS-BIENESTAR,cadáver,Puebla,5
+córnea,masculino,15,O,positivo,no aplica,PRIVADO,cadáver,Aguascalientes,28
+córnea,masculino,28,A,positivo,no aplica,IMSS,cadáver,Puebla,29
+córnea,masculino,81,O,positivo,no aplica,IMSS,cadáver,Puebla,11
+córnea,femenino,56,O,positivo,no aplica,IMSS,cadáver,Puebla,15
+córnea,femenino,35,A,positivo,no aplica,IMSS,cadáver,Puebla,32
+córnea,masculino,42,O,positivo,no aplica,IMSS,cadáver,Puebla,13
+córnea,masculino,54,O,positivo,no aplica,IMSS,cadáver,Puebla,15
+córnea,masculino,22,A,positivo,no aplica,IMSS,cadáver,Puebla,36
+córnea,femenino,56,O,positivo,no aplica,IMSS,cadáver,Puebla,32
+córnea,femenino,33,O,positivo,no aplica,IMSS,cadáver,Puebla,32
+córnea,femenino,47,O,positivo,no aplica,IMSS,cadáver,Puebla,13
+córnea,masculino,39,no aplica,no aplica,no aplica,PRIVADO,cadáver,Yucatán,7
+córnea,masculino,49,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,2
+córnea,femenino,77,O,positivo,no aplica,PRIVADO,cadáver,Ciudad de México,1
+riñón,femenino,61,A,positivo,no aplica,IMSS,cadáver,Nuevo León,12
+hígado,femenino,66,O,positivo,no aplica,SSA,cadáver,Ciudad de México,27
+hígado,femenino,46,O,positivo,no aplica,SSA,cadáver,Ciudad de México,11
+hígado,femenino,50,O,positivo,no aplica,SSA,cadáver,Ciudad de México,71
+córnea,femenino,41,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,13
+córnea,femenino,41,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,13
+riñón,masculino,59,O,positivo,no aplica,IMSS,cadáver,Morelos,60
+córnea,masculino,63,O,positivo,no aplica,IMSS,cadáver,Coahuila,7
+córnea,femenino,56,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,1
+córnea,femenino,17,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,6
+córnea,femenino,52,O,positivo,no aplica,IMSS,cadáver,San Luis Potosí,12
+córnea,masculino,48,O,positivo,no aplica,IMSS,cadáver,Coahuila,12
+córnea,femenino,56,O,positivo,no aplica,IMSS,cadáver,Coahuila,18
+córnea,femenino,74,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,31
+córnea,masculino,71,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,6
+córnea,masculino,53,B,positivo,no aplica,IMSS,cadáver,Coahuila,19
+córnea,masculino,87,no aplica,no aplica,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,21
+córnea,femenino,49,no aplica,no aplica,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,12
+córnea,masculino,56,no aplica,no aplica,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,46
+córnea,masculino,45,no aplica,no aplica,no aplica,IMSS,cadáver,Michoacán,28
+córnea,masculino,51,no aplica,no aplica,no aplica,PRIVADO,cadáver,Yucatán,9
+córnea,masculino,81,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,4
+córnea,masculino,53,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,17
+riñón,masculino,52,O,positivo,no aplica,SSA,cadáver,Ciudad de México,22
+córnea,femenino,27,O,positivo,no aplica,PRIVADO,cadáver,Puebla,41
+córnea,femenino,67,O,positivo,no aplica,PRIVADO,cadáver,Puebla,42
+córnea,masculino,30,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,64
+córnea,masculino,28,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,45
+córnea,femenino,61,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,2
+córnea,femenino,61,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,30
+córnea,masculino,80,O,positivo,no aplica,IMSS,cadáver,Coahuila,29
+córnea,femenino,41,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,1
+riñón,masculino,16,O,positivo,no aplica,PRIVADO,cadáver,Nuevo León,10
+córnea,masculino,68,no aplica,no aplica,no aplica,IMSS,cadáver,Guanajuato,13
+córnea,femenino,39,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,2
+hígado,masculino,44,O,positivo,no aplica,PRIVADO,cadáver,Nuevo León,10
+córnea,femenino,81,O,positivo,no aplica,PRIVADO,cadáver,Guanajuato,25
+córnea,masculino,27,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,49
+córnea,masculino,78,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,0
+hígado,femenino,63,O,positivo,no aplica,SSA,cadáver,Ciudad de México,48
+hígado,masculino,65,O,positivo,no aplica,SSA,cadáver,Ciudad de México,10
+córnea,femenino,60,O,positivo,no aplica,PRIVADO,cadáver,Querétaro,12
+córnea,femenino,73,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,0
+hígado,masculino,51,A,positivo,no aplica,SSA,cadáver,Ciudad de México,26
+hígado,masculino,57,A,positivo,no aplica,SSA,cadáver,Ciudad de México,23
+hígado,femenino,59,A,positivo,no aplica,SSA,cadáver,Ciudad de México,12
+hígado,masculino,55,B,positivo,no aplica,SSA,cadáver,Ciudad de México,40
+hígado,masculino,45,O,positivo,no aplica,SSA,cadáver,Ciudad de México,21
+córnea,femenino,51,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,60
+córnea,femenino,38,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,17
+córnea,masculino,63,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,13
+córnea,femenino,60,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,18
+córnea,femenino,65,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,12
+córnea,masculino,26,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,21
+córnea,femenino,72,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,11
+córnea,femenino,70,O,positivo,no aplica,PRIVADO,cadáver,Guanajuato,3
+córnea,femenino,29,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,19
+córnea,femenino,83,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,21
+córnea,femenino,51,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,18
+córnea,masculino,84,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,12
+córnea,femenino,43,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,14
+córnea,femenino,59,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,13
+córnea,femenino,38,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,19
+córnea,femenino,80,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,40
+córnea,femenino,89,O,positivo,no aplica,PRIVADO,cadáver,Chihuahua,40
+córnea,femenino,69,A1,negativo,no aplica,PRIVADO,cadáver,Estado de México,31
+córnea,masculino,79,no aplica,no aplica,no aplica,IMSS,cadáver,Michoacán,21
+córnea,femenino,50,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,11
+córnea,femenino,38,O,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,3
+córnea,masculino,43,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,2
+córnea,femenino,44,A,positivo,no aplica,IMSS,cadáver,Coahuila,14
+hígado,femenino,59,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,28
+hígado,femenino,42,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,3
+hígado,femenino,57,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,23
+córnea,masculino,61,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,2
+córnea,masculino,27,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,7
+córnea,femenino,25,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,16
+córnea,femenino,43,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,14
+córnea,femenino,33,no aplica,no aplica,no aplica,IMSS,cadáver,Guanajuato,13
+córnea,femenino,50,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,0
+córnea,masculino,58,O,positivo,no aplica,SSE,cadáver,Coahuila,20
+córnea,femenino,50,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,1
+córnea,masculino,60,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,13
+córnea,masculino,77,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,13
+córnea,femenino,62,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,13
+córnea,femenino,49,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,8
+córnea,masculino,61,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,20
+córnea,masculino,60,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,27
+córnea,femenino,58,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,27
+córnea,masculino,21,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,29
+córnea,masculino,57,B,positivo,no aplica,IMSS,cadáver,Guanajuato,15
+córnea,masculino,53,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,19
+córnea,masculino,27,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,20
+riñón,masculino,23,O,positivo,no aplica,SSE,cadáver,Guanajuato,13
+riñón,masculino,40,O,positivo,no aplica,SSE,cadáver,Guanajuato,18
+córnea,masculino,30,AB,positivo,no aplica,IMSS,cadáver,Coahuila,23
+córnea,masculino,57,O,positivo,no aplica,PRIVADO,cadáver,Jalisco,43
+corazón,femenino,52,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,29
+córnea,femenino,49,O,positivo,no aplica,PRIVADO,cadáver,Chihuahua,54
+córnea,masculino,71,A,positivo,no aplica,PRIVADO,cadáver,Chihuahua,33
+córnea,femenino,74,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,29
+córnea,femenino,44,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,24
+córnea,masculino,18,O,positivo,no aplica,IMSS-BIENESTAR,cadáver,Michoacán,19
+córnea,femenino,56,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,16
+córnea,masculino,77,A,positivo,no aplica,IMSS,cadáver,Coahuila,8
+córnea,femenino,65,O,positivo,no aplica,ISSSTE,cadáver,Nuevo León,10
+córnea,masculino,88,no aplica,no aplica,no aplica,SSE,cadáver,Querétaro,20
+córnea,masculino,77,O,positivo,no aplica,PRIVADO,cadáver,Guanajuato,4
+córnea,masculino,63,no aplica,no aplica,no aplica,SSE,cadáver,Querétaro,38
+córnea,femenino,34,no aplica,no aplica,no aplica,SSE,cadáver,Querétaro,51
+hígado,femenino,1,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,2
+córnea,femenino,79,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,41
+hígado,masculino,38,O,positivo,no aplica,SSA,cadáver,Ciudad de México,6
+córnea,masculino,49,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,2
+córnea,masculino,36,no aplica,no disponible,no aplica,PRIVADO,cadáver,Jalisco,13
+córnea,femenino,16,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,0
+córnea,femenino,63,B,positivo,no aplica,PRIVADO,cadáver,Estado de México,37
+córnea,masculino,21,O,positivo,no aplica,PRIVADO,cadáver,Ciudad de México,1
+córnea,masculino,42,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,5
+córnea,masculino,61,O,positivo,no aplica,SSE,cadáver,Coahuila,25
+córnea,femenino,81,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,4
+córnea,femenino,69,O,positivo,no aplica,IMSS,cadáver,Puebla,30
+córnea,femenino,46,O,positivo,no aplica,IMSS,cadáver,Puebla,52
+hígado,masculino,49,O,positivo,no aplica,IMSS,cadáver,Nuevo León,22
+córnea,masculino,69,AB,positivo,no aplica,ISSSTE,cadáver,Nuevo León,7
+córnea,femenino,77,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,4
+córnea,masculino,36,B,positivo,no aplica,PRIVADO,cadáver,Chihuahua,48
+córnea,femenino,70,no aplica,no disponible,no aplica,ISSSTE,cadáver,Estado de México,14
+córnea,femenino,74,no aplica,no aplica,no aplica,IMSS,cadáver,Michoacán,35
+córnea,femenino,63,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,0
+riñón,femenino,16,B,positivo,no aplica,SSE,cadáver,Guanajuato,4
+córnea,masculino,57,A,positivo,no aplica,PRIVADO,cadáver,Jalisco,4
+córnea,femenino,36,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,3
+córnea,masculino,64,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,45
+córnea,masculino,66,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,13
+córnea,masculino,78,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,13
+córnea,masculino,80,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,8
+córnea,femenino,30,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,28
+córnea,femenino,87,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,37
+córnea,masculino,63,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,14
+córnea,femenino,81,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,10
+córnea,masculino,27,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,17
+córnea,masculino,36,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,16
+hígado,femenino,38,O,positivo,no aplica,SSA,cadáver,Ciudad de México,2
+córnea,femenino,75,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,8
+hígado,femenino,45,O,positivo,no aplica,SSA,cadáver,Ciudad de México,10
+córnea,femenino,83,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,9
+córnea,femenino,35,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,20
+córnea,femenino,71,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,9
+córnea,femenino,39,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,17
+córnea,masculino,68,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,14
+córnea,masculino,54,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,15
+córnea,masculino,40,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,31
+córnea,masculino,55,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,16
+córnea,masculino,10,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,28
+córnea,masculino,32,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,27
+córnea,femenino,52,O,negativo,no aplica,PRIVADO,cadáver,Ciudad de México,1
+hígado,femenino,39,A,positivo,no aplica,IMSS,cadáver,Jalisco,2
+córnea,femenino,48,no aplica,no aplica,no aplica,SSE,cadáver,Puebla,18
+hígado,masculino,64,O,positivo,no aplica,ISSSTE,cadáver,Ciudad de México,37
+córnea,masculino,69,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,7
+córnea,femenino,81,no aplica,no aplica,no aplica,SSE,cadáver,Puebla,18
+córnea,masculino,30,B,positivo,no aplica,IMSS-BIENESTAR,cadáver,Estado de México,15
+córnea,femenino,53,A,positivo,no aplica,SSE,cadáver,Coahuila,18
+corazón,masculino,62,A,positivo,no aplica,SSA,cadáver,Ciudad de México,8
+hígado,masculino,63,O,positivo,no aplica,PRIVADO,cadáver,Nuevo León,22
+córnea,femenino,39,A,positivo,no aplica,IMSS,cadáver,Puebla,6
+córnea,femenino,76,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,21
+córnea,femenino,59,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,12
+córnea,femenino,71,no aplica,no aplica,no aplica,IMSS,cadáver,Michoacán,28
+córnea,masculino,21,A,positivo,no aplica,PRIVADO,cadáver,Nuevo León,13
+córnea,masculino,49,A,positivo,no aplica,PRIVADO,cadáver,Chihuahua,38
+córnea,femenino,69,O,positivo,no aplica,IMSS,cadáver,Coahuila,13
+córnea,femenino,48,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,3
+córnea,masculino,71,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,9
+córnea,masculino,26,O,positivo,no aplica,PRIVADO,cadáver,Querétaro,9
+córnea,femenino,64,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,9
+riñón,masculino,51,A,positivo,no aplica,IMSS,cadáver,Sinaloa,10
+hígado,femenino,3,B,positivo,no aplica,IMSS,cadáver,Nuevo León,1
+córnea,masculino,78,no aplica,no aplica,no aplica,IMSS,cadáver,Guanajuato,6
+hígado,femenino,34,O,positivo,no aplica,SSA,cadáver,Ciudad de México,8
+córnea,masculino,20,O,negativo,no aplica,PRIVADO,cadáver,Nuevo León,21
+córnea,masculino,64,A,positivo,no aplica,IMSS,cadáver,Coahuila,9
+córnea,masculino,85,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,14
+córnea,femenino,68,A,positivo,no aplica,ISSSTE,cadáver,Nuevo León,13
+córnea,masculino,39,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,19
+córnea,femenino,55,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,28
+córnea,masculino,57,A,positivo,no aplica,IMSS,cadáver,Ciudad de México,10
+córnea,masculino,27,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,20
+córnea,masculino,35,A1B,positivo,no aplica,IMSS,cadáver,Ciudad de México,19
+córnea,masculino,52,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,31
+córnea,masculino,36,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,19
+córnea,femenino,51,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,32
+córnea,femenino,61,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,11
+córnea,femenino,49,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,11
+hígado,femenino,56,A,positivo,no aplica,PRIVADO,cadáver,Nuevo León,20
+córnea,masculino,73,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,14
+córnea,femenino,86,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,14
+córnea,masculino,22,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,18
+córnea,masculino,21,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,18
+córnea,femenino,67,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,34
+córnea,masculino,64,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,17
+córnea,masculino,55,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,19
+córnea,masculino,49,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,21
+córnea,femenino,30,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,20
+córnea,femenino,26,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,21
+córnea,femenino,60,O,positivo,no aplica,PRIVADO,cadáver,Estado de México,28
+córnea,femenino,64,no aplica,no aplica,no aplica,IMSS,cadáver,Jalisco,3
+córnea,masculino,62,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,5
+córnea,femenino,71,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,7
+córnea,masculino,24,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,23
+córnea,femenino,42,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,1
+córnea,femenino,53,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,0
+córnea,femenino,83,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,31
+riñón,masculino,34,B,negativo,no aplica,PRIVADO,cadáver,Guanajuato,16
+córnea,masculino,50,A,negativo,no aplica,PRIVADO,cadáver,Querétaro,17
+córnea,femenino,72,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,0
+córnea,masculino,82,O,positivo,no aplica,IMSS,cadáver,Coahuila,7
+córnea,femenino,64,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,2
+córnea,femenino,36,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,1
+hígado,masculino,19,A,positivo,no aplica,SSA,cadáver,Ciudad de México,20
+córnea,femenino,60,O,positivo,no aplica,IMSS,cadáver,Guanajuato,19
+córnea,masculino,25,O,positivo,no aplica,PRIVADO,cadáver,Querétaro,27
+córnea,femenino,68,B,positivo,no aplica,IMSS,cadáver,Coahuila,5
+córnea,masculino,53,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,1
+córnea,femenino,64,O,positivo,no aplica,IMSS,cadáver,Coahuila,9
+córnea,masculino,21,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,23
+córnea,masculino,45,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,9
+córnea,femenino,58,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,9
+córnea,masculino,35,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,23
+córnea,masculino,23,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,22
+córnea,masculino,77,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,9
+córnea,femenino,57,O,positivo,no aplica,ISSSTE,cadáver,Puebla,3
+córnea,femenino,74,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,21
+córnea,masculino,32,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,23
+córnea,femenino,47,no aplica,no aplica,no aplica,SSA,cadáver,Ciudad de México,16
+córnea,masculino,37,O,positivo,no aplica,IMSS,cadáver,Coahuila,19
+córnea,masculino,49,O,positivo,no aplica,IMSS,cadáver,Puebla,5
+córnea,masculino,41,A,positivo,no aplica,IMSS,cadáver,Puebla,27
+córnea,femenino,68,O,positivo,no aplica,IMSS,cadáver,Puebla,5
+córnea,masculino,65,A,positivo,no aplica,IMSS,cadáver,Puebla,14
+córnea,masculino,58,no aplica,no aplica,no aplica,PRIVADO,cadáver,Estado de México,25
+córnea,femenino,73,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,2
+córnea,femenino,50,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,3
+córnea,masculino,78,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,2
+córnea,masculino,21,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,1
+hígado,masculino,54,O,positivo,no aplica,SSA,cadáver,Ciudad de México,5
+córnea,masculino,14,O,positivo,no aplica,SSE,cadáver,Querétaro,14
+córnea,femenino,55,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,0
+riñón,femenino,39,B,positivo,no aplica,SSE,cadáver,Guanajuato,21
+riñón,masculino,37,O,positivo,no aplica,SSE,cadáver,Guanajuato,21
+córnea,masculino,30,A,positivo,no aplica,IMSS,cadáver,Coahuila,17
+córnea,masculino,45,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,17
+córnea,masculino,42,O,positivo,no aplica,IMSS,cadáver,Coahuila,25
+córnea,masculino,53,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,18
+córnea,masculino,29,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,15
+córnea,masculino,76,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,21
+córnea,masculino,59,no aplica,no aplica,no aplica,PRIVADO,cadáver,Yucatán,5
+córnea,masculino,69,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,19
+córnea,femenino,54,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,14
+córnea,femenino,76,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,6
+córnea,femenino,85,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,19
+córnea,femenino,70,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,0
+córnea,femenino,69,no aplica,no aplica,no aplica,IMSS,cadáver,Nuevo León,16
+córnea,masculino,75,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,6
+córnea,femenino,55,A,positivo,no aplica,IMSS,cadáver,Coahuila,6
+córnea,femenino,58,A,positivo,no aplica,ISSSTE,cadáver,Nuevo León,21
+córnea,masculino,60,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,1
+córnea,femenino,61,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,7
+hígado,femenino,42,O,positivo,no aplica,IMSS,cadáver,Ciudad de México,15
+córnea,femenino,63,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,2
+córnea,femenino,65,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,7
+riñón,masculino,40,O,positivo,no aplica,IMSS,cadáver,Sinaloa,20
+córnea,masculino,68,O,positivo,no aplica,IMSS,cadáver,Puebla,6
+córnea,masculino,20,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,11
+córnea,masculino,54,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,3
+córnea,masculino,50,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,1
+córnea,masculino,75,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,10
+córnea,femenino,66,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,1
+córnea,masculino,42,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,5
+córnea,masculino,68,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,18
+córnea,femenino,71,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,18
+córnea,femenino,56,A,positivo,no aplica,PRIVADO,cadáver,Sonora,11
+córnea,femenino,71,A,positivo,no aplica,PRIVADO,cadáver,Jalisco,3
+córnea,masculino,27,no aplica,no aplica,no aplica,PRIVADO,cadáver,Ciudad de México,0
+córnea,masculino,34,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,12
+córnea,masculino,77,A,positivo,no aplica,ISSSTE,cadáver,Nuevo León,13
+córnea,masculino,69,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,1
+córnea,femenino,64,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,1
+hígado,masculino,60,A,positivo,no aplica,SSA,cadáver,Ciudad de México,8
+córnea,femenino,37,no aplica,no aplica,no aplica,IMSS,cadáver,Veracruz,6
+córnea,masculino,39,O,positivo,no aplica,PRIVADO,cadáver,Yucatán,7
+córnea,femenino,78,no aplica,no aplica,no aplica,IMSS,cadáver,Coahuila,7
+córnea,masculino,65,no aplica,no aplica,no aplica,PRIVADO,cadáver,Jalisco,1
+córnea,masculino,50,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,8
+córnea,femenino,36,no aplica,no aplica,no aplica,PRIVADO,cadáver,Nuevo León,9
+córnea,femenino,55,no aplica,no disponible,no aplica,ISSSTE,cadáver,Ciudad de México,6
+córnea,femenino,42,B,positivo,no aplica,IMSS,cadáver,Coahuila,11
+córnea,masculino,64,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,6
+córnea,femenino,26,no aplica,no aplica,no aplica,PRIVADO,cadáver,Aguascalientes,6
+córnea,masculino,33,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,5
+córnea,femenino,73,O,positivo,no aplica,PRIVADO,cadáver,Guanajuato,4
+córnea,masculino,56,O,positivo,no aplica,IMSS,cadáver,Coahuila,10
+córnea,femenino,77,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,10
+córnea,femenino,22,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,3
+córnea,femenino,15,no aplica,no aplica,no aplica,IMSS,cadáver,Ciudad de México,3
+riñón,femenino,40,O,positivo,Parentesco/Relacionado,IMSS,vivo,Nuevo León,3957
+riñón,masculino,24,O,positivo,Parentesco/Relacionado,IMSS,vivo,Guanajuato,2267
+riñón,femenino,53,B,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,1982
+riñón,masculino,33,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,1048
+riñón,masculino,24,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,1120
+riñón,masculino,29,O,positivo,Parentesco/Relacionado,IMSS,vivo,Guanajuato,867
+riñón,masculino,32,O,positivo,Parentesco/Relacionado,IMSS,vivo,Veracruz,932
+riñón,femenino,30,A,positivo,Parentesco/Relacionado,ISSSTE,vivo,Puebla,838
+riñón,masculino,34,O,positivo,Parentesco/Relacionado,IMSS,vivo,Nuevo León,686
+riñón,femenino,21,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,583
+riñón,masculino,26,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Estado de México,577
+riñón,femenino,23,O,positivo,No relacionado,PRIVADO,vivo,Jalisco,575
+hígado,masculino,2,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,593
+riñón,femenino,32,O,positivo,Parentesco/Relacionado,SSE,vivo,Jalisco,515
+riñón,femenino,48,O,positivo,No relacionado,PRIVADO,vivo,Estado de México,480
+riñón,masculino,46,O,positivo,Parentesco/Relacionado,IMSS,vivo,Sonora,487
+riñón,femenino,31,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,424
+riñón,masculino,46,O,positivo,No relacionado,SSE,vivo,Jalisco,383
+riñón,femenino,21,O,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Guanajuato,385
+riñón,femenino,27,O,negativo,Parentesco/Relacionado,IMSS,vivo,Puebla,370
+riñón,masculino,58,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,382
+riñón,femenino,26,O,positivo,Parentesco/Relacionado,ISSSTE,vivo,Puebla,357
+riñón,masculino,54,O,positivo,Parentesco/Relacionado,PEMEX,vivo,Ciudad de México,297
+riñón,femenino,63,A,positivo,No relacionado,IMSS,vivo,Coahuila,339
+riñón,masculino,63,A,positivo,No relacionado,PRIVADO,vivo,Coahuila,281
+riñón,masculino,32,O,positivo,Parentesco/Relacionado,IMSS,vivo,Puebla,260
+riñón,masculino,29,B,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Tlaxcala,260
+riñón,femenino,62,A1,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,304
+riñón,masculino,64,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,293
+riñón,femenino,57,O,positivo,Parentesco/Relacionado,IMSS,vivo,San Luis Potosí,267
+riñón,femenino,24,O,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Guanajuato,259
+riñón,masculino,27,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,216
+riñón,femenino,40,B,positivo,No relacionado,PRIVADO,vivo,Baja California,243
+riñón,masculino,40,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,172
+riñón,masculino,32,A,positivo,Parentesco/Relacionado,IMSS,vivo,Puebla,223
+riñón,masculino,54,O,positivo,Parentesco/Relacionado,ISSSTE,vivo,Ciudad de México,160
+hígado,femenino,6,O,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,175
+riñón,masculino,30,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,160
+riñón,masculino,28,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,189
+riñón,femenino,48,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,203
+riñón,femenino,38,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,167
+riñón,masculino,30,O,positivo,Parentesco/Relacionado,IMSS,vivo,Nuevo León,147
+riñón,femenino,32,O,positivo,No relacionado,IMSS,vivo,Coahuila,174
+riñón,masculino,34,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Sinaloa,202
+riñón,masculino,27,A,positivo,Parentesco/Relacionado,SSE,vivo,Querétaro,156
+riñón,masculino,31,O,positivo,No relacionado,ISSSTE,vivo,Ciudad de México,160
+riñón,masculino,21,O,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,160
+riñón,masculino,22,O,positivo,No relacionado,ISSSTE,vivo,Ciudad de México,188
+riñón,masculino,48,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Aguascalientes,107
+riñón,femenino,50,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Nuevo León,165
+riñón,femenino,16,B,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Veracruz,161
+riñón,femenino,13,O,positivo,Parentesco/Relacionado,ISSSTE,vivo,Ciudad de México,158
+riñón,masculino,45,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,112
+riñón,masculino,30,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,118
+riñón,masculino,61,O,positivo,No relacionado,PRIVADO,vivo,Estado de México,130
+riñón,masculino,31,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Ciudad de México,166
+riñón,masculino,29,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,118
+riñón,femenino,30,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,126
+riñón,masculino,64,O,positivo,Parentesco/Relacionado,SSE,vivo,Aguascalientes,105
+riñón,masculino,39,O,positivo,No relacionado,SSA,vivo,Ciudad de México,101
+riñón,masculino,35,B,positivo,Parentesco/Relacionado,ISSSTE,vivo,Jalisco,94
+riñón,femenino,36,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,106
+riñón,femenino,59,O,positivo,Parentesco/Relacionado,ISSSTE,vivo,Ciudad de México,146
+riñón,femenino,50,O,negativo,Parentesco/Relacionado,IMSS,vivo,Coahuila,124
+riñón,femenino,35,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,84
+riñón,femenino,25,O,positivo,No relacionado,SSE,vivo,Jalisco,106
+riñón,masculino,58,O,positivo,Parentesco/Relacionado,PEMEX,vivo,Ciudad de México,126
+riñón,femenino,31,A,positivo,Parentesco/Relacionado,SSE,vivo,Aguascalientes,75
+riñón,masculino,44,O,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,100
+riñón,femenino,35,B,positivo,Parentesco/Relacionado,SSE,vivo,Jalisco,68
+riñón,masculino,26,O,positivo,Parentesco/Relacionado,SSE,vivo,Jalisco,61
+riñón,masculino,18,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,117
+riñón,femenino,24,B,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,125
+riñón,femenino,31,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,139
+riñón,femenino,31,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,103
+riñón,femenino,30,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,110
+riñón,femenino,35,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,111
+riñón,femenino,41,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,109
+riñón,masculino,38,O,positivo,Parentesco/Relacionado,ISSSTE,vivo,Jalisco,119
+riñón,masculino,39,O,positivo,Parentesco/Relacionado,ISSSTE,vivo,Jalisco,56
+riñón,masculino,38,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Guanajuato,64
+riñón,masculino,30,O,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,123
+riñón,masculino,46,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Puebla,91
+riñón,femenino,39,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,45
+riñón,femenino,43,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,70
+riñón,femenino,17,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,61
+riñón,femenino,39,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,119
+riñón,masculino,31,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,119
+riñón,masculino,27,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,43
+riñón,masculino,41,O,negativo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,104
+riñón,masculino,63,A1,positivo,No relacionado,PRIVADO,vivo,Jalisco,49
+riñón,femenino,10,O,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Estado de México,82
+riñón,femenino,53,O,negativo,No relacionado,PRIVADO,vivo,San Luis Potosí,68
+riñón,masculino,56,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,San Luis Potosí,84
+riñón,masculino,20,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Aguascalientes,39
+riñón,masculino,22,B,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,39
+riñón,femenino,22,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Zacatecas,62
+riñón,masculino,33,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Morelos,50
+riñón,femenino,32,A,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,50
+riñón,masculino,24,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Estado de México,77
+riñón,masculino,33,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Ciudad de México,35
+riñón,masculino,31,A1,positivo,Parentesco/Relacionado,ISSSTE,vivo,Ciudad de México,32
+riñón,femenino,55,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Chihuahua,94
+riñón,masculino,51,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,26
+riñón,masculino,26,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,39
+riñón,masculino,16,A,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Guanajuato,93
+riñón,masculino,12,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Sonora,100
+riñón,masculino,67,A,positivo,Parentesco/Relacionado,SSE,vivo,Aguascalientes,48
+riñón,femenino,43,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,41
+riñón,masculino,49,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,San Luis Potosí,38
+riñón,femenino,48,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Ciudad de México,49
+riñón,masculino,36,O,positivo,No relacionado,PRIVADO,vivo,Jalisco,34
+riñón,femenino,38,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,46
+riñón,femenino,32,A,positivo,No relacionado,PRIVADO,vivo,Aguascalientes,40
+riñón,femenino,54,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Guanajuato,19
+riñón,masculino,25,B,positivo,Parentesco/Relacionado,SSE,vivo,Querétaro,37
+riñón,femenino,26,O,positivo,Parentesco/Relacionado,IMSS,vivo,Puebla,15
+riñón,masculino,24,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,88
+riñón,femenino,23,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,17
+riñón,femenino,31,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,28
+riñón,femenino,31,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,51
+riñón,femenino,37,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,25
+riñón,masculino,42,O,positivo,Parentesco/Relacionado,IMSS,vivo,Nuevo León,18
+riñón,femenino,35,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Estado de México,55
+riñón,masculino,34,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Estado de México,66
+riñón,femenino,28,O,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,75
+riñón,femenino,9,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Yucatán,33
+riñón,femenino,33,O,positivo,No relacionado,PRIVADO,vivo,Yucatán,19
+riñón,masculino,48,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Yucatán,75
+riñón,masculino,33,O,positivo,No relacionado,PRIVADO,vivo,Chihuahua,67
+riñón,masculino,36,A,positivo,Parentesco/Relacionado,IMSS,vivo,Veracruz,14
+riñón,femenino,34,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,7
+riñón,masculino,27,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,14
+riñón,femenino,40,B,negativo,Parentesco/Relacionado,IMSS,vivo,Coahuila,8
+riñón,masculino,57,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,17
+riñón,masculino,32,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,53
+riñón,femenino,33,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,34
+riñón,femenino,34,O,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,3
+riñón,femenino,35,A,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,8
+riñón,masculino,42,O,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,17
+riñón,femenino,50,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,25
+riñón,femenino,34,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Nuevo León,2
+riñón,masculino,32,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,5
+riñón,femenino,38,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,6
+riñón,femenino,36,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,14
+riñón,masculino,43,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,32
+riñón,masculino,32,O,positivo,No relacionado,PRIVADO,vivo,Jalisco,4
+riñón,masculino,20,A,positivo,Parentesco/Relacionado,SSE,vivo,Jalisco,64
+riñón,masculino,32,B,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,3
+riñón,femenino,51,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,28
+riñón,femenino,52,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Aguascalientes,33
+riñón,masculino,34,O,positivo,Parentesco/Relacionado,IMSS,vivo,San Luis Potosí,5
+riñón,femenino,40,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,5
+riñón,masculino,33,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,18
+riñón,masculino,50,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,21
+hígado,femenino,1,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,6
+riñón,femenino,32,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,4
+riñón,masculino,42,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,5
+riñón,masculino,38,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,28
+riñón,masculino,33,A,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,4
+riñón,femenino,30,O,positivo,No relacionado,PRIVADO,vivo,Jalisco,1
+riñón,masculino,54,O,positivo,Parentesco/Relacionado,SSE,vivo,Coahuila,45
+riñón,masculino,75,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,5
+riñón,femenino,50,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,5
+riñón,femenino,34,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,26
+riñón,femenino,43,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Guanajuato,3
+riñón,masculino,30,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,1
+riñón,masculino,43,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,7
+riñón,femenino,39,A,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,1
+riñón,femenino,58,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,8
+hígado,masculino,2,O,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,22
+riñón,femenino,35,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,3
+hígado,femenino,1,O,positivo,Parentesco/Relacionado,IMSS,vivo,Nuevo León,71
+riñón,masculino,35,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,28
+riñón,femenino,32,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,34
+riñón,masculino,53,O,positivo,Parentesco/Relacionado,IMSS,vivo,Aguascalientes,41
+riñón,femenino,29,A,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,2
+riñón,masculino,30,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,3
+riñón,masculino,64,O,positivo,No relacionado,PRIVADO,vivo,Yucatán,18
+riñón,masculino,34,A1,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,35
+riñón,masculino,41,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Veracruz,16
+riñón,masculino,4,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,5
+riñón,femenino,23,O,positivo,Parentesco/Relacionado,IMSS,vivo,Puebla,6
+riñón,masculino,38,O,positivo,Parentesco/Relacionado,IMSS,vivo,Veracruz,43
+riñón,masculino,27,A,positivo,Parentesco/Relacionado,IMSS,vivo,Veracruz,27
+riñón,masculino,38,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,6
+riñón,masculino,50,AB,positivo,No relacionado,PRIVADO,vivo,Aguascalientes,5
+riñón,masculino,31,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Aguascalientes,3
+riñón,femenino,36,O,positivo,No relacionado,IMSS,vivo,Jalisco,12
+riñón,masculino,60,O,positivo,No relacionado,IMSS,vivo,Jalisco,5
+riñón,femenino,27,O,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Chiapas,12
+riñón,femenino,56,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,3
+riñón,masculino,37,A,positivo,No relacionado,PRIVADO,vivo,Jalisco,49
+riñón,masculino,54,O,positivo,No relacionado,IMSS,vivo,Coahuila,22
+riñón,femenino,41,O,negativo,No relacionado,PRIVADO,vivo,Jalisco,8
+riñón,masculino,35,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,3
+riñón,femenino,33,B,positivo,No relacionado,IMSS,vivo,Jalisco,5
+riñón,masculino,32,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,7
+riñón,masculino,32,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Ciudad de México,6
+riñón,femenino,30,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,San Luis Potosí,13
+riñón,masculino,74,A,positivo,No relacionado,PRIVADO,vivo,Zacatecas,3
+riñón,masculino,51,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Morelos,3
+riñón,femenino,47,A,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,2
+riñón,masculino,30,O,positivo,Parentesco/Relacionado,IMSS,vivo,Baja California,0
+riñón,masculino,37,O,positivo,Parentesco/Relacionado,IMSS,vivo,Yucatán,27
+riñón,masculino,64,O,positivo,Parentesco/Relacionado,IMSS,vivo,Yucatán,22
+riñón,masculino,29,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,61
+riñón,masculino,14,O,positivo,Parentesco/Relacionado,IMSS,vivo,Yucatán,48
+riñón,masculino,48,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,35
+riñón,femenino,59,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Ciudad de México,33
+riñón,masculino,60,O,positivo,Parentesco/Relacionado,IMSS,vivo,Sinaloa,7
+riñón,masculino,46,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Estado de México,53
+riñón,masculino,35,O,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,2
+riñón,masculino,28,AB,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,5
+riñón,masculino,30,O,positivo,Parentesco/Relacionado,IMSS,vivo,Nuevo León,7
+riñón,masculino,37,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,4
+riñón,masculino,29,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,6
+riñón,masculino,38,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,8
+riñón,masculino,57,O,positivo,No relacionado,PRIVADO,vivo,Aguascalientes,2
+riñón,masculino,55,B,positivo,No relacionado,PRIVADO,vivo,Nuevo León,12
+riñón,masculino,30,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,San Luis Potosí,4
+riñón,masculino,42,O,positivo,No relacionado,ISSSTE,vivo,Nuevo León,22
+riñón,masculino,59,O,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,1
+riñón,masculino,38,O,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,3
+riñón,masculino,21,O,positivo,Parentesco/Relacionado,IMSS,vivo,Baja California,1
+riñón,masculino,60,AB,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,3
+riñón,femenino,46,O,positivo,No relacionado,PRIVADO,vivo,Aguascalientes,2
+riñón,femenino,51,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Baja California,5
+riñón,masculino,33,O,positivo,Parentesco/Relacionado,SSE,vivo,Jalisco,6
+riñón,masculino,40,O,positivo,No relacionado,PRIVADO,vivo,Morelos,14
+riñón,femenino,23,O,positivo,Parentesco/Relacionado,SSE,vivo,Jalisco,27
+riñón,masculino,56,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Ciudad de México,19
+riñón,masculino,17,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,6
+riñón,femenino,32,O,positivo,Parentesco/Relacionado,ISSSTE,vivo,Ciudad de México,6
+riñón,femenino,50,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Estado de México,42
+riñón,masculino,32,A,positivo,Parentesco/Relacionado,IMSS,vivo,Puebla,35
+riñón,masculino,57,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Ciudad de México,26
+riñón,masculino,31,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,5
+riñón,masculino,53,O,negativo,Parentesco/Relacionado,IMSS,vivo,Sinaloa,40
+riñón,masculino,48,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,San Luis Potosí,3
+riñón,femenino,12,A,positivo,Parentesco/Relacionado,IMSS,vivo,Guanajuato,4
+hígado,femenino,2,O,positivo,No relacionado,PRIVADO,vivo,Chihuahua,36
+riñón,masculino,34,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,4
+riñón,masculino,61,O,positivo,No relacionado,IMSS,vivo,Nuevo León,6
+riñón,femenino,50,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,11
+riñón,masculino,35,O,positivo,No relacionado,PRIVADO,vivo,Jalisco,10
+riñón,masculino,33,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,3
+riñón,masculino,58,A1,positivo,No relacionado,PRIVADO,vivo,Jalisco,3
+riñón,masculino,24,O,positivo,No relacionado,PRIVADO,vivo,Aguascalientes,18
+riñón,masculino,29,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,4
+riñón,femenino,12,A,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,11
+riñón,femenino,34,AB,positivo,Parentesco/Relacionado,PRIVADO,vivo,Zacatecas,20
+riñón,masculino,10,A,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,0
+riñón,masculino,38,O,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,9
+riñón,femenino,62,O,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,7
+riñón,masculino,51,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,San Luis Potosí,2
+riñón,masculino,42,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,San Luis Potosí,1
+riñón,femenino,38,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,San Luis Potosí,2
+riñón,masculino,52,O,positivo,No relacionado,PRIVADO,vivo,Guanajuato,5
+riñón,femenino,37,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Guanajuato,12
+riñón,masculino,30,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Guanajuato,18
+riñón,masculino,51,O,positivo,No relacionado,PRIVADO,vivo,Ciudad de México,26
+riñón,masculino,38,O,positivo,Parentesco/Relacionado,SSE,vivo,Aguascalientes,15
+riñón,femenino,58,O,positivo,Parentesco/Relacionado,SSE,vivo,Aguascalientes,12
+riñón,femenino,57,A,positivo,No relacionado,PRIVADO,vivo,Jalisco,26
+riñón,femenino,61,O,positivo,Parentesco/Relacionado,IMSS,vivo,Baja California,1
+riñón,femenino,35,A,positivo,Parentesco/Relacionado,IMSS,vivo,San Luis Potosí,14
+riñón,femenino,49,B,positivo,Parentesco/Relacionado,IMSS,vivo,San Luis Potosí,33
+riñón,masculino,58,O,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Oaxaca,12
+riñón,masculino,31,A,positivo,Parentesco/Relacionado,IMSS,vivo,Veracruz,7
+riñón,masculino,31,O,positivo,No relacionado,IMSS,vivo,Jalisco,34
+riñón,masculino,31,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,11
+riñón,masculino,39,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Aguascalientes,2
+riñón,masculino,20,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,3
+riñón,masculino,27,O,positivo,No relacionado,IMSS,vivo,Ciudad de México,4
+riñón,masculino,20,O,positivo,Parentesco/Relacionado,SSE,vivo,Jalisco,4
+riñón,masculino,55,A,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,4
+riñón,masculino,25,A1,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,3
+riñón,femenino,53,AB,positivo,Parentesco/Relacionado,PRIVADO,vivo,Baja California,10
+riñón,masculino,57,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Ciudad de México,11
+riñón,masculino,44,O,positivo,No relacionado,PRIVADO,vivo,Jalisco,8
+riñón,masculino,32,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,52
+riñón,masculino,35,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Nuevo León,51
+riñón,femenino,54,A1,positivo,Parentesco/Relacionado,PRIVADO,vivo,Morelos,6
+riñón,masculino,37,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,San Luis Potosí,3
+riñón,femenino,33,O,positivo,Parentesco/Relacionado,SSE,vivo,Estado de México,4
+riñón,femenino,41,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Baja California,5
+riñón,femenino,58,A,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,40
+riñón,femenino,59,A,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,8
+riñón,masculino,33,O,negativo,Parentesco/Relacionado,IMSS,vivo,Sinaloa,3
+riñón,masculino,19,O,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,10
+riñón,femenino,40,O,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,12
+hígado,masculino,0,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Ciudad de México,12
+riñón,masculino,51,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,3
+riñón,femenino,31,O,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,3
+riñón,masculino,35,O,positivo,Parentesco/Relacionado,IMSS,vivo,Baja California,1
+riñón,masculino,15,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,0
+riñón,masculino,64,A,positivo,No relacionado,PRIVADO,vivo,Jalisco,3
+riñón,masculino,40,A,positivo,No relacionado,PRIVADO,vivo,Jalisco,37
+riñón,masculino,54,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Estado de México,21
+riñón,femenino,43,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,1
+riñón,femenino,32,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,2
+riñón,masculino,38,O,positivo,Parentesco/Relacionado,IMSS,vivo,Guanajuato,35
+riñón,femenino,34,A,positivo,Parentesco/Relacionado,IMSS,vivo,Nuevo León,6
+riñón,femenino,22,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,2
+riñón,masculino,43,B,positivo,No relacionado,PRIVADO,vivo,Morelos,8
+riñón,femenino,33,O,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Michoacán,5
+riñón,masculino,59,AB,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,30
+riñón,masculino,10,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,19
+riñón,femenino,28,O,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Michoacán,24
+riñón,femenino,18,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,6
+riñón,masculino,25,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,7
+riñón,femenino,27,A,positivo,No relacionado,PRIVADO,vivo,Guanajuato,2
+riñón,masculino,44,O,positivo,No relacionado,IMSS,vivo,Ciudad de México,4
+riñón,femenino,27,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,4
+riñón,femenino,31,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,17
+riñón,masculino,30,O,negativo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,4
+riñón,femenino,35,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Veracruz,11
+riñón,masculino,33,A,positivo,Parentesco/Relacionado,SSE,vivo,Querétaro,9
+riñón,masculino,47,A,positivo,Parentesco/Relacionado,IMSS,vivo,Veracruz,2
+riñón,femenino,33,O,positivo,Parentesco/Relacionado,IMSS,vivo,Baja California,1
+riñón,masculino,34,A,negativo,Parentesco/Relacionado,IMSS,vivo,Jalisco,3
+riñón,femenino,32,A,positivo,Parentesco/Relacionado,IMSS,vivo,Puebla,13
+riñón,masculino,29,O,positivo,Parentesco/Relacionado,IMSS,vivo,Veracruz,2
+riñón,femenino,57,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Morelos,22
+riñón,femenino,34,A,positivo,No relacionado,PRIVADO,vivo,Aguascalientes,4
+riñón,femenino,28,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,4
+riñón,masculino,53,AB,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,6
+riñón,masculino,30,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,7
+riñón,femenino,33,A,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,6
+riñón,femenino,34,O,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Michoacán,5
+riñón,masculino,18,O,positivo,Parentesco/Relacionado,IMSS,vivo,Guanajuato,4
+riñón,femenino,35,O,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,4
+riñón,masculino,45,A,positivo,Parentesco/Relacionado,SSE,vivo,Estado de México,25
+riñón,masculino,34,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Hidalgo,17
+riñón,masculino,45,O,positivo,Parentesco/Relacionado,ISSSTE,vivo,Ciudad de México,22
+riñón,femenino,27,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Querétaro,31
+riñón,masculino,36,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,1
+riñón,masculino,33,O,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,3
+riñón,masculino,49,O,positivo,Parentesco/Relacionado,IMSS,vivo,Baja California,1
+riñón,masculino,33,A,positivo,Parentesco/Relacionado,SSE,vivo,Querétaro,29
+riñón,masculino,51,O,positivo,Parentesco/Relacionado,SSE,vivo,Jalisco,28
+riñón,masculino,61,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Yucatán,3
+riñón,femenino,31,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Puebla,5
+riñón,masculino,32,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,5
+riñón,masculino,62,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,San Luis Potosí,2
+riñón,masculino,19,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Ciudad de México,19
+riñón,masculino,18,O,negativo,Parentesco/Relacionado,PRIVADO,vivo,Ciudad de México,8
+riñón,masculino,65,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,16
+riñón,masculino,34,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,4
+riñón,masculino,31,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,11
+riñón,femenino,29,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,6
+riñón,masculino,31,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,7
+riñón,masculino,30,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,8
+riñón,masculino,44,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Ciudad de México,8
+riñón,masculino,34,O,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Michoacán,3
+riñón,masculino,38,O,positivo,Parentesco/Relacionado,SSE,vivo,Estado de México,4
+riñón,femenino,39,O,positivo,Parentesco/Relacionado,IMSS,vivo,Veracruz,2
+riñón,masculino,28,A,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,1
+riñón,masculino,31,O,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,17
+riñón,femenino,48,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Aguascalientes,17
+riñón,masculino,28,B,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,10
+riñón,masculino,39,O,positivo,Parentesco/Relacionado,IMSS,vivo,Baja California,0
+riñón,masculino,38,O,positivo,Parentesco/Relacionado,IMSS,vivo,Yucatán,14
+riñón,masculino,38,B,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,27
+riñón,femenino,65,A,positivo,Parentesco/Relacionado,IMSS,vivo,San Luis Potosí,20
+riñón,masculino,29,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,5
+riñón,masculino,35,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,9
+riñón,masculino,48,O,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Puebla,1
+riñón,masculino,35,A1,positivo,Parentesco/Relacionado,IMSS-BIENESTAR,vivo,Michoacán,5
+riñón,femenino,49,A,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,7
+riñón,femenino,30,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Morelos,6
+riñón,femenino,14,A,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,5
+riñón,masculino,25,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,5
+riñón,femenino,11,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,12
+riñón,femenino,29,B,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,8
+riñón,masculino,31,O,positivo,Parentesco/Relacionado,SEDENA,vivo,Ciudad de México,5
+riñón,masculino,34,O,positivo,Parentesco/Relacionado,IMSS,vivo,Veracruz,4
+riñón,femenino,14,A,positivo,Parentesco/Relacionado,IMSS,vivo,Nuevo León,20
+riñón,masculino,59,O,positivo,Parentesco/Relacionado,IMSS,vivo,Sinaloa,17
+riñón,masculino,40,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,4
+riñón,femenino,27,A2,positivo,No relacionado,PRIVADO,vivo,Jalisco,4
+riñón,masculino,36,O,positivo,No relacionado,IMSS,vivo,Jalisco,13
+riñón,masculino,30,A,positivo,No relacionado,PRIVADO,vivo,Michoacán,2
+riñón,femenino,30,O,positivo,No relacionado,IMSS,vivo,Coahuila,1
+riñón,masculino,25,A,positivo,Parentesco/Relacionado,SSE,vivo,Querétaro,9
+riñón,masculino,47,O,positivo,Parentesco/Relacionado,IMSS,vivo,Baja California,1
+riñón,masculino,29,A,positivo,Parentesco/Relacionado,IMSS,vivo,Veracruz,2
+riñón,masculino,27,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,2
+riñón,femenino,10,A,positivo,Parentesco/Relacionado,PRIVADO,vivo,Baja California,3
+riñón,masculino,13,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Baja California,3
+riñón,masculino,34,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Morelos,14
+riñón,femenino,58,O,positivo,Parentesco/Relacionado,SSE,vivo,Puebla,6
+riñón,masculino,37,A,positivo,Parentesco/Relacionado,SSE,vivo,Jalisco,6
+riñón,masculino,34,A,positivo,No relacionado,PRIVADO,vivo,San Luis Potosí,1
+riñón,femenino,71,O,positivo,No relacionado,PRIVADO,vivo,Morelos,15
+riñón,masculino,63,O,positivo,Parentesco/Relacionado,SSE,vivo,Nuevo León,12
+riñón,masculino,41,B,positivo,No relacionado,IMSS,vivo,Coahuila,12
+riñón,masculino,34,A,negativo,Parentesco/Relacionado,IMSS,vivo,Jalisco,5
+riñón,masculino,43,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,6
+riñón,masculino,35,B,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,4
+riñón,masculino,44,O,positivo,No relacionado,PRIVADO,vivo,Jalisco,3
+riñón,femenino,23,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,3
+riñón,masculino,68,O,positivo,No relacionado,PRIVADO,vivo,Aguascalientes,7
+riñón,masculino,22,O,positivo,Parentesco/Relacionado,IMSS,vivo,Baja California,3
+riñón,masculino,46,B,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,2
+riñón,masculino,29,A,positivo,Parentesco/Relacionado,IMSS,vivo,San Luis Potosí,9
+riñón,femenino,40,O,positivo,Parentesco/Relacionado,IMSS,vivo,Nuevo León,1
+riñón,masculino,31,O,negativo,Parentesco/Relacionado,IMSS,vivo,Jalisco,2
+riñón,masculino,34,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,4
+riñón,masculino,31,O,positivo,Parentesco/Relacionado,IMSS,vivo,Puebla,5
+riñón,masculino,38,O,positivo,Parentesco/Relacionado,IMSS,vivo,Puebla,7
+riñón,femenino,34,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,4
+riñón,masculino,33,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,5
+riñón,femenino,17,O,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,5
+riñón,femenino,31,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,4
+riñón,masculino,52,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Jalisco,3
+riñón,masculino,26,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,5
+riñón,femenino,33,A,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,7
+riñón,femenino,24,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,3
+riñón,masculino,30,O,positivo,Parentesco/Relacionado,IMSS,vivo,Morelos,1
+riñón,femenino,62,A,positivo,Parentesco/Relacionado,IMSS,vivo,Coahuila,3
+riñón,femenino,61,O,positivo,No relacionado,IMSS,vivo,Coahuila,5
+riñón,femenino,32,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Veracruz,3
+riñón,masculino,63,O,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,1
+riñón,femenino,57,O,positivo,Parentesco/Relacionado,SSA,vivo,Ciudad de México,3
+riñón,femenino,48,O,positivo,Parentesco/Relacionado,SSE,vivo,Estado de México,1
+riñón,masculino,56,O,positivo,No relacionado,IMSS-BIENESTAR,vivo,Chiapas,1
+riñón,masculino,36,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,San Luis Potosí,3
+riñón,masculino,40,AB,positivo,Parentesco/Relacionado,IMSS,vivo,Jalisco,4
+riñón,femenino,30,O,positivo,Parentesco/Relacionado,IMSS,vivo,Ciudad de México,3
+riñón,masculino,48,O,positivo,Parentesco/Relacionado,PRIVADO,vivo,Quintana Roo,1
+córnea,femenino,55,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,1015
+córnea,masculino,29,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,777
+córnea,femenino,50,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,616
+córnea,masculino,17,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,507
+córnea,femenino,79,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,381
+córnea,femenino,75,O,positivo,no aplica,PRIVADO,córnea importada,Puebla,364
+córnea,femenino,65,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,370
+córnea,masculino,30,O,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,278
+córnea,masculino,32,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,325
+córnea,masculino,28,O,positivo,no aplica,PRIVADO,córnea importada,Estado de México,267
+córnea,femenino,59,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,279
+córnea,femenino,79,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,238
+córnea,femenino,77,O,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,209
+córnea,masculino,67,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,216
+córnea,femenino,64,O,negativo,no aplica,PRIVADO,córnea importada,Ciudad de México,175
+córnea,masculino,70,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,184
+córnea,masculino,23,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,217
+córnea,femenino,34,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,206
+córnea,femenino,48,A,negativo,no aplica,PRIVADO,córnea importada,Jalisco,169
+córnea,masculino,6,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,212
+córnea,masculino,56,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Jalisco,156
+córnea,masculino,74,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,196
+córnea,femenino,73,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,134
+córnea,femenino,38,O,negativo,no aplica,PRIVADO,córnea importada,Ciudad de México,211
+córnea,femenino,69,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,151
+córnea,femenino,24,A,positivo,no aplica,PRIVADO,córnea importada,Baja California Sur,129
+córnea,femenino,41,O,positivo,no aplica,PRIVADO,córnea importada,Puebla,134
+córnea,femenino,78,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,154
+córnea,masculino,57,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,119
+córnea,femenino,62,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,191
+córnea,femenino,80,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,171
+córnea,femenino,78,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,156
+córnea,masculino,73,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,144
+córnea,masculino,52,O,negativo,no aplica,PRIVADO,córnea importada,Ciudad de México,143
+córnea,femenino,57,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,187
+córnea,masculino,64,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,110
+córnea,femenino,58,B,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,103
+córnea,femenino,76,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,109
+córnea,masculino,61,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,125
+córnea,femenino,77,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,90
+córnea,femenino,72,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,168
+córnea,femenino,68,A,positivo,no aplica,PRIVADO,córnea importada,Jalisco,99
+córnea,femenino,66,O,positivo,no aplica,PRIVADO,córnea importada,Estado de México,146
+córnea,femenino,86,O,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,96
+córnea,femenino,60,A,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,145
+córnea,femenino,43,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,95
+córnea,masculino,71,O,positivo,no aplica,PRIVADO,córnea importada,Baja California,93
+córnea,masculino,80,O,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,112
+córnea,femenino,79,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Nuevo León,86
+córnea,masculino,69,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Jalisco,126
+córnea,femenino,39,O,positivo,no aplica,PRIVADO,córnea importada,Baja California,89
+córnea,masculino,63,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,136
+córnea,masculino,67,O,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,94
+córnea,femenino,57,A,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,75
+córnea,masculino,71,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,64
+córnea,femenino,45,B,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,85
+córnea,masculino,74,O,positivo,no aplica,PRIVADO,córnea importada,Baja California,84
+córnea,femenino,72,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,95
+córnea,femenino,71,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,98
+córnea,femenino,79,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,45
+córnea,femenino,76,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,61
+córnea,femenino,66,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,56
+córnea,masculino,82,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,63
+córnea,masculino,74,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,112
+córnea,femenino,60,O,positivo,no aplica,PRIVADO,córnea importada,Estado de México,65
+córnea,masculino,58,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,43
+córnea,femenino,18,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,45
+córnea,masculino,65,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,65
+córnea,femenino,73,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,34
+córnea,femenino,31,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Jalisco,44
+córnea,femenino,73,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,100
+córnea,femenino,75,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,82
+córnea,masculino,86,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,22
+córnea,masculino,33,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Jalisco,48
+córnea,masculino,20,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,40
+córnea,masculino,53,O,negativo,no aplica,PRIVADO,córnea importada,Ciudad de México,102
+córnea,masculino,65,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,46
+córnea,femenino,30,A,positivo,no aplica,PRIVADO,córnea importada,Estado de México,36
+córnea,femenino,82,O,positivo,no aplica,PRIVADO,córnea importada,Baja California,44
+córnea,femenino,50,O,positivo,no aplica,PRIVADO,córnea importada,Baja California,45
+córnea,femenino,27,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,50
+córnea,femenino,72,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,34
+córnea,femenino,19,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,17
+córnea,masculino,59,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,13
+córnea,masculino,35,O,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,41
+córnea,femenino,39,A,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,59
+córnea,masculino,51,O,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,59
+córnea,masculino,78,O,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,41
+córnea,masculino,65,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,12
+córnea,femenino,59,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,53
+córnea,masculino,43,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,10
+córnea,masculino,81,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Nuevo León,39
+córnea,femenino,64,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Jalisco,52
+córnea,femenino,69,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,89
+córnea,masculino,69,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,71
+córnea,masculino,84,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,25
+córnea,femenino,62,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,35
+córnea,masculino,29,O,positivo,no aplica,PRIVADO,córnea importada,Guanajuato,16
+córnea,femenino,53,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Baja California,24
+córnea,masculino,60,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Baja California,36
+córnea,masculino,25,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,4
+córnea,femenino,60,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,14
+córnea,femenino,82,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,35
+córnea,masculino,41,A,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,46
+córnea,masculino,44,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,53
+córnea,masculino,34,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,32
+córnea,femenino,72,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,37
+córnea,masculino,77,B,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,28
+córnea,femenino,80,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,49
+córnea,femenino,45,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,24
+córnea,femenino,54,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Baja California,13
+córnea,femenino,51,O,positivo,no aplica,PRIVADO,córnea importada,Chiapas,15
+córnea,masculino,36,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Baja California,38
+córnea,masculino,72,A,positivo,no aplica,PRIVADO,córnea importada,Jalisco,34
+córnea,masculino,84,A,positivo,no aplica,PRIVADO,córnea importada,Chiapas,12
+córnea,masculino,72,B,positivo,no aplica,PRIVADO,córnea importada,Guanajuato,12
+córnea,femenino,63,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Baja California,13
+córnea,femenino,67,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,22
+córnea,masculino,70,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Baja California,18
+córnea,masculino,60,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,3
+córnea,femenino,77,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,4
+córnea,femenino,84,A,positivo,no aplica,PRIVADO,córnea importada,Puebla,51
+córnea,masculino,38,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,3
+córnea,femenino,67,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,14
+córnea,femenino,76,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,61
+córnea,femenino,70,O,positivo,no aplica,PRIVADO,córnea importada,Tabasco,37
+córnea,femenino,86,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,54
+córnea,femenino,72,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,3
+córnea,masculino,52,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,2
+córnea,femenino,68,O,positivo,no aplica,PRIVADO,córnea importada,Baja California,52
+córnea,femenino,57,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,57
+córnea,femenino,67,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,16
+córnea,femenino,76,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,24
+córnea,masculino,54,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,38
+córnea,masculino,64,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,31
+córnea,femenino,84,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,40
+córnea,masculino,70,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,7
+córnea,masculino,84,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,13
+córnea,femenino,83,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Jalisco,8
+córnea,femenino,74,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Jalisco,13
+córnea,masculino,58,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Jalisco,37
+córnea,femenino,29,O,positivo,no aplica,PRIVADO,córnea importada,Puebla,40
+córnea,masculino,85,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,57
+córnea,femenino,71,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,21
+córnea,masculino,34,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,24
+córnea,femenino,63,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,19
+córnea,masculino,60,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,12
+córnea,masculino,54,O,positivo,no aplica,PRIVADO,córnea importada,Baja California,18
+córnea,masculino,57,O,positivo,no aplica,PRIVADO,córnea importada,Baja California,32
+córnea,masculino,45,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,21
+córnea,femenino,86,O,positivo,no aplica,PRIVADO,córnea importada,Tabasco,23
+córnea,masculino,28,O,positivo,no aplica,PRIVADO,córnea importada,Estado de México,2
+córnea,femenino,66,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,22
+córnea,masculino,39,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,16
+córnea,femenino,71,A,positivo,no aplica,PRIVADO,córnea importada,Baja California,9
+córnea,femenino,45,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Jalisco,1
+córnea,masculino,83,A,positivo,no aplica,PRIVADO,córnea importada,Jalisco,20
+córnea,femenino,72,O,positivo,no aplica,PRIVADO,córnea importada,Jalisco,13
+córnea,masculino,76,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,15
+córnea,masculino,60,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Baja California,28
+córnea,femenino,16,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,16
+córnea,masculino,35,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,41
+córnea,femenino,67,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,40
+córnea,femenino,42,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,42
+córnea,masculino,60,A,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,23
+córnea,femenino,73,O,positivo,no aplica,PRIVADO,córnea importada,Jalisco,4
+córnea,masculino,78,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Nuevo León,31
+córnea,masculino,63,O,positivo,no aplica,PRIVADO,córnea importada,Baja California,3
+córnea,masculino,76,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,11
+córnea,femenino,38,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,11
+córnea,femenino,85,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,4
+córnea,masculino,17,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,27
+córnea,femenino,58,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,12
+córnea,femenino,51,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,23
+córnea,masculino,53,A,positivo,no aplica,PRIVADO,córnea importada,Jalisco,4
+córnea,femenino,52,A,positivo,no aplica,PRIVADO,córnea importada,Jalisco,4
+córnea,femenino,58,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,23
+córnea,masculino,36,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,30
+córnea,femenino,39,O,positivo,no aplica,PRIVADO,córnea importada,Chiapas,10
+córnea,masculino,68,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Yucatán,8
+córnea,femenino,86,AB,positivo,no aplica,PRIVADO,córnea importada,Nuevo León,28
+córnea,femenino,47,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,4
+córnea,masculino,67,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,4
+córnea,femenino,84,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,15
+córnea,masculino,71,O,positivo,no aplica,PRIVADO,córnea importada,Baja California,22
+córnea,masculino,55,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Baja California,4
+córnea,masculino,31,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,9
+córnea,masculino,67,A,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,15
+córnea,masculino,30,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Baja California,7
+córnea,masculino,46,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Baja California,13
+córnea,femenino,79,O,positivo,no aplica,PRIVADO,córnea importada,Baja California,11
+córnea,femenino,80,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,1
+córnea,femenino,47,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,5
+córnea,masculino,54,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,9
+córnea,femenino,66,O,positivo,no aplica,PRIVADO,córnea importada,Ciudad de México,3
+córnea,masculino,72,no aplica,no aplica,no aplica,PRIVADO,córnea importada,Ciudad de México,3
