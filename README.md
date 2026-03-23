@@ -10,7 +10,7 @@ Aplicación web desarrollada en Streamlit para estimar el tiempo de espera de un
 Datos públicos del CENATRA, primer trimestre de 2025.
 
 ## App pública
-[Ver app desplegada](PEGAR_AQUI_URL_STREAMLIT)
+[Ver app desplegada]https://prototipo-cenatra-mavdm09c.streamlit.app/
 
 ## Tecnologías
 - Python
