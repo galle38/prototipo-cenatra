@@ -10,7 +10,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 import plotly.express as px
 
 
-st.set_page_config(page_title="Prototipo CENATRA", page_icon="馃珋", layout="wide")
+st.set_page_config(page_title="Prototipo CENATRA", page_icon="🫀", layout="wide")
 
 DATA_PATH = Path("data/trasplantes.csv")
 MODEL_RLM_PATH = Path("modelo_rlm.pkl")
@@ -68,20 +68,20 @@ def build_input_row(df: pd.DataFrame) -> pd.DataFrame:
     col1, col2, col3 = st.columns(3)
 
     with col1:
-        organo = st.selectbox("脫rgano", sorted(df["organo"].dropna().astype(str).unique()))
+        organo = st.selectbox("Órgano", sorted(df["organo"].dropna().astype(str).unique()))
         sexo = st.selectbox("Sexo", sorted(df["sexo"].dropna().astype(str).unique()))
         edad = st.number_input("Edad", min_value=0, max_value=100, value=45, step=1)
 
     with col2:
         grupo = st.selectbox(
-            "Grupo sangu铆neo",
+            "Grupo sanguíneo",
             sorted(df["grupo_sanguineo_receptor"].dropna().astype(str).unique()),
         )
         rh = st.selectbox("RH", sorted(df["rh"].dropna().astype(str).unique()))
-        relacion = st.selectbox("Relaci贸n con el donante", sorted(df["relacion"].dropna().astype(str).unique()))
+        relacion = st.selectbox("Relación con el donante", sorted(df["relacion"].dropna().astype(str).unique()))
 
     with col3:
-        institucion = st.selectbox("Instituci贸n", sorted(df["institucion"].dropna().astype(str).unique()))
+        institucion = st.selectbox("Institución", sorted(df["institucion"].dropna().astype(str).unique()))
         tipo_trasplante = st.selectbox(
             "Tipo de trasplante",
             sorted(df["tipo_trasplante"].dropna().astype(str).unique()),
@@ -113,22 +113,22 @@ def render_summary(df: pd.DataFrame):
     st.subheader("Resumen del dataset")
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Registros", f"{len(df):,}")
-    c2.metric("Tiempo medio de espera", f"{df['tiempo_espera_dias'].mean():.1f} d铆as")
-    c3.metric("Mediana de espera", f"{df['tiempo_espera_dias'].median():.1f} d铆as")
-    c4.metric("Edad media", f"{df['edad_al_trasplante_anios'].mean():.1f} a帽os")
+    c2.metric("Tiempo medio de espera", f"{df['tiempo_espera_dias'].mean():.1f} días")
+    c3.metric("Mediana de espera", f"{df['tiempo_espera_dias'].median():.1f} días")
+    c4.metric("Edad media", f"{df['edad_al_trasplante_anios'].mean():.1f} años")
 
 
 def render_charts(df: pd.DataFrame):
     st.subheader("Visualizaciones")
 
     chart_col1, chart_col2 = st.columns(2)
-    col1, col2 = st.columns([1, 1])  # mismo tama帽o
+    col1, col2 = st.columns([1, 1])  # mismo tamaño
 
 
     with chart_col1:
       
         import plotly.express as px
-        # Quitar valores inv谩lidos para log (0 o negativos)
+        # Quitar valores inválidos para log (0 o negativos)
         df_clean = df[df["tiempo_espera_dias"] > 0]
         
         # Histograma
@@ -136,9 +136,9 @@ def render_charts(df: pd.DataFrame):
         df_clean,
         x="tiempo_espera_dias",
         nbins=30,
-        title="Distribuci贸n del tiempo de espera",
+        title="Distribución del tiempo de espera",
         labels={
-            "tiempo_espera_dias": "D铆as",
+            "tiempo_espera_dias": "Días",
             "count": "Frecuencia"
         }
         )
@@ -147,14 +147,14 @@ def render_charts(df: pd.DataFrame):
             yaxis_title="Frecuencia"
         )
        
-            # Aplicar escala logar铆tmica
+            # Aplicar escala logarítmica
        # fig.update_xaxes(type="log")
         # Mostrar en Streamlit
         st.plotly_chart(fig, use_container_width=True)
                   
 
     with chart_col2:
-        #----------------Conteo total de 贸rganos---------------------
+        #----------------Conteo total de órganos---------------------
         import plotly.express as px
         
         conteo = df["organo"].value_counts().reset_index()
@@ -163,42 +163,42 @@ def render_charts(df: pd.DataFrame):
             conteo,
             x="organo",
             y="conteo",
-            color="organo",  # 馃憟 esto da un color distinto a cada barra
+            color="organo",  # 👈 esto da un color distinto a cada barra
             #text="conteo"
         )
         
         # Tooltip personalizado
         fig.update_traces(
-            hovertemplate="脫rgano: %{x}<br>Trasplantes: %{y}<extra></extra>"
+            hovertemplate="Órgano: %{x}<br>Trasplantes: %{y}<extra></extra>"
         )
         
-        # Est茅tica
+        # Estética
         fig.update_layout(
-            title="Conteo de 贸rganos trasplantados",
-            xaxis_title="脫rgano",
+            title="Conteo de órganos trasplantados",
+            xaxis_title="Órgano",
             yaxis_title="Frecuencia",
             showlegend=False  # opcional, porque ya se ve en el eje X
         )
-            # Aplicar escala logar铆tmica
+            # Aplicar escala logarítmica
         fig.update_xaxes(tickangle=45)
         st.plotly_chart(fig, use_container_width=True)
         ##------------------------------------------------
 
-#--------------------------Promedio de tiempo de espera por 贸rgano con tooltip--------------------------------------------------------------------------
+#--------------------------Promedio de tiempo de espera por órgano con tooltip--------------------------------------------------------------------------
     import plotly.express as px
     
     avg_wait = df.groupby("organo", dropna=False)["tiempo_espera_dias"].mean().sort_values(ascending=False).head(10)   
     fig = px.bar(
         x=avg_wait.index.astype(str),
         y=avg_wait.values,
-        color=avg_wait.index.astype(str),  # 馃憟 esto asigna un color por 贸rgano
-        labels={"x": "脫rgano", "y": "D铆as"},
-        title="Promedio de tiempo de espera por 贸rgano"
+        color=avg_wait.index.astype(str),  # 👈 esto asigna un color por órgano
+        labels={"x": "Órgano", "y": "Días"},
+        title="Promedio de tiempo de espera por órgano"
     )
     
     # Personalizar tooltip
     fig.update_traces(
-        hovertemplate="<b>脫rgano:</b> %{x}<br><b>Promedio:</b> %{y:.2f} d铆as"
+        hovertemplate="<b>Órgano:</b> %{x}<br><b>Promedio:</b> %{y:.2f} días"
     )
     
     st.plotly_chart(fig)
@@ -211,32 +211,32 @@ def interpret_prediction(pred: float, df: pd.DataFrame):
     p75 = df["tiempo_espera_dias"].quantile(0.75)
 
     if pred <= p25:
-        st.success("Estimaci贸n relativamente baja respecto a la distribuci贸n hist贸rica.")
+        st.success("Estimación relativamente baja respecto a la distribución histórica.")
     elif pred <= p50:
-        st.info("Estimaci贸n cercana al rango bajo-medio de la distribuci贸n hist贸rica.")
+        st.info("Estimación cercana al rango bajo-medio de la distribución histórica.")
     elif pred <= p75:
-        st.warning("Estimaci贸n por encima de la mediana hist贸rica.")
+        st.warning("Estimación por encima de la mediana histórica.")
     else:
-        st.error("Estimaci贸n alta respecto a la distribuci贸n hist贸rica observada.")
+        st.error("Estimación alta respecto a la distribución histórica observada.")
 
     st.caption(
-        f"Referencia hist贸rica: Q1={p25:.1f} d铆as, mediana={p50:.1f} d铆as, Q3={p75:.1f} d铆as."
+        f"Referencia histórica: Q1={p25:.1f} días, mediana={p50:.1f} días, Q3={p75:.1f} días."
     )
 
 
 def render_prediction(model_rlm, model_ols, input_row: pd.DataFrame, df: pd.DataFrame):
-    st.subheader("Predicci贸n")
+    st.subheader("Predicción")
 
     pred_rlm = max(float(model_rlm.predict(input_row).iloc[0]), 0.0)
     pred_ols = max(float(model_ols.predict(input_row).iloc[0]), 0.0)
     diferencia = pred_ols - pred_rlm
 
     c1, c2, c3 = st.columns(3)
-    c1.metric("Tiempo estimado RLM", f"{pred_rlm:.1f} d铆as")
-    c2.metric("Tiempo estimado OLS", f"{pred_ols:.1f} d铆as")
-    c3.metric("Diferencia OLS - RLM", f"{diferencia:.1f} d铆as")
+    c1.metric("Tiempo estimado RLM", f"{pred_rlm:.1f} días")
+    c2.metric("Tiempo estimado OLS", f"{pred_ols:.1f} días")
+    c3.metric("Diferencia OLS - RLM", f"{diferencia:.1f} días")
 
-    st.write("**Interpretaci贸n con RLM**")
+    st.write("**Interpretación con RLM**")
     interpret_prediction(pred_rlm, df)
 
     st.write("**Perfil evaluado**")
@@ -273,7 +273,7 @@ def compute_comparison(df: pd.DataFrame, model_rlm, model_ols):
 
 
 def render_comparison_tab(df: pd.DataFrame, model_rlm, model_ols):
-    st.subheader("Comparaci贸n de modelos")
+    st.subheader("Comparación de modelos")
     coef_comparacion, metricas, y_true, y_pred_ols, y_pred_rlm = compute_comparison(df, model_rlm, model_ols)
 
     m1, m2 = st.columns(2)
@@ -282,13 +282,13 @@ def render_comparison_tab(df: pd.DataFrame, model_rlm, model_ols):
     m1.metric("Mejor MAE", best_mae)
     m2.metric("Mejor RMSE", best_rmse)
 
-    st.write("**M茅tricas de error**")
+    st.write("**Métricas de error**")
     st.dataframe(metricas.round(3), use_container_width=True)
 
-    st.write("**Comparaci贸n de coeficientes**")
+    st.write("**Comparación de coeficientes**")
     st.dataframe(coef_comparacion.round(4), use_container_width=True)
     
-#------------------------------Comparaci贸n de residuos: OLS vs RLM-HuberT---------------------------------------------------------
+#------------------------------Comparación de residuos: OLS vs RLM-HuberT---------------------------------------------------------
     import plotly.graph_objects as go
     #import streamlit as st
     
@@ -317,7 +317,7 @@ def render_comparison_tab(df: pd.DataFrame, model_rlm, model_ols):
         )
     )
     
-    # L铆nea horizontal en 0
+    # Línea horizontal en 0
     fig.add_hline(
         y=0,
         line_dash="dash"
@@ -325,8 +325,8 @@ def render_comparison_tab(df: pd.DataFrame, model_rlm, model_ols):
     
     # Layout
     fig.update_layout(
-        title="Comparaci贸n de residuos: OLS vs RLM-HuberT",
-        xaxis_title="Predicci贸n",
+        title="Comparación de residuos: OLS vs RLM-HuberT",
+        xaxis_title="Predicción",
         yaxis_title="Residuo",
         template="plotly_white"
     )
@@ -337,7 +337,7 @@ def render_comparison_tab(df: pd.DataFrame, model_rlm, model_ols):
 #---------------------------------------------------------------------------------------
     col1, col2 = st.columns(2)
 
-#------Distribuci贸n de residuo------------------------------------------------------------------------
+#------Distribución de residuo------------------------------------------------------------------------
     with col1:
         #st.plotly_chart(fig_coeficientes, use_container_width=True)  
         residuos_ols = y_true - y_pred_ols
@@ -363,7 +363,7 @@ def render_comparison_tab(df: pd.DataFrame, model_rlm, model_ols):
         
         fig.update_layout(
             height=600,
-            title="Distribuci贸n de residuos",
+            title="Distribución de residuos",
             xaxis_title="Residuo",
             yaxis_title="Frecuencia",
             barmode="overlay"  # para que se sobrepongan como en matplotlib
@@ -385,7 +385,7 @@ def render_comparison_tab(df: pd.DataFrame, model_rlm, model_ols):
         df_plot = top_diff.reset_index()
         df_plot.columns = ["Variable", "Diferencia_absoluta"]
         
-        # Gr谩fica interactiva 
+        # Gráfica interactiva 
         fig = px.bar(
             df_plot,
             x="Variable",
@@ -411,28 +411,28 @@ def render_comparison_tab(df: pd.DataFrame, model_rlm, model_ols):
     
 #--------------------------------------------------------------------------------
     st.write(
-        "Un menor MAE o RMSE indica mejor capacidad predictiva promedio. Si RLM presenta errores menores o residuos m谩s estables, "
-        "ello respalda su uso en presencia de asimetr铆a y valores at铆picos."
+        "Un menor MAE o RMSE indica mejor capacidad predictiva promedio. Si RLM presenta errores menores o residuos más estables, "
+        "ello respalda su uso en presencia de asimetría y valores atípicos."
     )
 
 
 def main():
-    st.title("馃珋 Prototipo anal铆tico CENATRA")
+    st.title("🫀 Prototipo analítico CENATRA")
     st.write(
-        "Aplicaci贸n demostrativa para estimar el tiempo de espera de un trasplante a partir de variables demogr谩ficas y administrativas."
+        "Aplicación demostrativa para estimar el tiempo de espera de un trasplante a partir de variables demográficas y administrativas."
     )
 
     try:
         df = validate_df(load_data())
         model_rlm, model_ols = load_models()
     except FileNotFoundError as e:
-        st.error(f"No se encontr贸 un archivo requerido: {e}")
+        st.error(f"No se encontró un archivo requerido: {e}")
         st.stop()
 
-    tab1, tab2, tab3, tab4 = st.tabs(["Simulador", "Dashboard", "Comparaci贸n", "Datos"])
+    tab1, tab2, tab3, tab4 = st.tabs(["Simulador", "Dashboard", "Comparación", "Datos"])
 
     with tab1:
-        st.write("Complete el formulario con un perfil compatible con las categor铆as observadas en el dataset.")
+        st.write("Complete el formulario con un perfil compatible con las categorías observadas en el dataset.")
         input_row = build_input_row(df)
         if st.button("Predecir tiempo de espera"):
                         render_prediction(model_rlm, model_ols, input_row, df)
